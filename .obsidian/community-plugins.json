@@ -3,5 +3,7 @@
   "smart-random-note",
   "templater-obsidian",
   "nldates-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "customjs",
+  "dataview"
 ]
