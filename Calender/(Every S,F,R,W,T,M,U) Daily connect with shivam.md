@@ -14,3 +14,8 @@ daysOfWeek:
   - U
 startRecur: 2024-12-01
 ---
+daily connect
+Sunday, December 1 · 7:00 – 8:00pm
+Time zone: Asia/Kolkata
+Google Meet joining info
+Video call link: https://meet.google.com/vip-wueq-ema
