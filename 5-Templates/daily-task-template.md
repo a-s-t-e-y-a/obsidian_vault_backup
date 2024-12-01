@@ -14,4 +14,4 @@
 - [ ] 🚿 Get ready
     - Start: ⏰ <% tp.date.now("HH:mm") %> `button-record-time`
     - End: ⏰ <% "{{TIME}}" %> `button-record-time`
-    - Duration: ⏱️ <% "{{DURATION}}" %>
+    - Duration: ⏱️ <% "{{DURATION}}" %>3
