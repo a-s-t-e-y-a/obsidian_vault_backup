@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Templates/Daily-Tasks.md.md",
+                "file": "scripts/timer.js.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily-Tasks.md"
+              "title": "timer.js"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Templates/Daily-Tasks.md.md",
+                "file": "scripts/timer.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily-Tasks.md"
+              "title": "Backlinks for timer.js"
             }
           },
           {
@@ -180,6 +180,8 @@
   },
   "active": "e087442b3d7c6f12",
   "lastOpenFiles": [
+    "5-Templates/Daily-Tasks.md.md",
+    "scripts/timer.css.md",
     "scripts/timer.js.md",
     "8-DailyTasks/Untitled 1.md",
     "scripts",
@@ -188,7 +190,6 @@
     "5-Templates/meeting-template.md.md",
     "8-DailyTasks/dailiy tasks.md",
     "6-Full Notes/Untitled.md",
-    "5-Templates/Daily-Tasks.md.md",
     "8-DailyTasks",
     "7-Meetings/2024-12-01 new meet by alok sir.md",
     "7-Meetings/2024-12-01 alok sir.md",
@@ -209,7 +210,6 @@
     "6-Full Notes/gfdsa.md",
     "6-Full Notes/Tags.md",
     "6-Full Notes/newew.md",
-    "3-Tags/Drawing 2024-12-01 02.30.26.excalidraw.md",
     "Excalidraw",
     "6-Full Notes",
     "4-Indexes",
