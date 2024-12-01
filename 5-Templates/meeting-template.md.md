@@ -26,7 +26,6 @@ await tp.file.move("7-Meetings/" + newDate + " " + projectName)
 - [ ] Review previous meeting notes
 - [ ] Prepare agenda items
 - [ ] Gather necessary documents
-- [ ] Set up meeting link/room
 
 ### Notes
 - 
