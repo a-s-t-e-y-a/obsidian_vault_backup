@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Full Notes/Untitled.md",
+                "file": "8-Tasks/2024-12-01 dsfdsfds.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2024-12-01 dsfdsfds"
             }
           }
         ]
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Templates/Full note.md"
+                "file": "8-Tasks/2024-12-01 dsfdsfds.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Full note"
+              "title": "Outline of 2024-12-01 dsfdsfds"
             }
           },
           {
@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,12 +181,13 @@
   },
   "active": "eb6f52e2ebe218a3",
   "lastOpenFiles": [
-    "6-Full Notes/Untitled.md",
+    "8-Tasks",
     "5-Templates/daily-task-template.md",
+    "8-Tasks/2024-12-01 dsfdsfds.md",
+    "5-Templates/meeting-template.md",
     "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
     "Calender",
     "5-Templates/Daily-Tasks.md",
-    "5-Templates/meeting-template.md",
     "8-DailyTasks/Untitled 1.md",
     "scripts/timer.js.md",
     "scripts/timer.js",
@@ -212,7 +213,6 @@
     "Meetings",
     "7-Meetings",
     "5-Templates/Full note.md",
-    "6-Full Notes/dsfds.md",
     "Excalidraw",
     "6-Full Notes",
     "4-Indexes",
