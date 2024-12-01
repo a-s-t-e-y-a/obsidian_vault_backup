@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-Tasks/2024-12-01 dsfdsfds.md",
+                "file": "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-01 dsfdsfds"
+              "title": "(Every S,F,R,W,T,M,U) Daily connect with shivam"
+            }
+          },
+          {
+            "id": "3ce882e56bf41c9c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-01 21.34.37.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-Tasks/2024-12-01 dsfdsfds.md"
+                "file": "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-01 dsfdsfds"
+              "title": "Outline of Drawing 2024-12-01 21.34.37.excalidraw"
             }
           },
           {
@@ -179,14 +192,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eb6f52e2ebe218a3",
+  "active": "3ce882e56bf41c9c",
   "lastOpenFiles": [
-    "5-Templates/daily-task-template.md",
+    "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
+    "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md",
     "8-Tasks/2024-12-01 dsfdsfds.md",
+    "5-Templates/daily-task-template.md",
     "scripts/timeTracker.js",
     "8-Tasks",
     "5-Templates/meeting-template.md",
-    "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
     "Calender",
     "5-Templates/Daily-Tasks.md",
     "8-DailyTasks/Untitled 1.md",
