@@ -1,17 +1,18 @@
+---
+creation_date: <% tp.date.now("YYYY-MM-DD") %>
+path: "8-DailyTasks/<% tp.date.now("YYYY-MM-DD") %>"
+---
+
 # Daily Tasks - <% tp.date.now("YYYY-MM-DD") %>
 
 ## Morning Routine
-- [ ] 🌅 Wake up 
-    - Start: ⏰ <% tp.date.now("HH:mm") %> `button-record-time`
-    - End: ⏰ <% "{{TIME}}" %> `button-record-time`
-    - Duration: ⏱️ <% "{{DURATION}}" %>
 
-- [ ] 🏃 Exercise
-    - Start: ⏰ <% tp.date.now("HH:mm") %> `button-record-time`
-    - End: ⏰ <% "{{TIME}}" %> `button-record-time`
-    - Duration: ⏱️ <% "{{DURATION}}" %>
+## Today's Tasks
+### 🔴 High Priority
+- [ ] 
 
-- [ ] 🚿 Get ready
-    - Start: ⏰ <% tp.date.now("HH:mm") %> `button-record-time`
-    - End: ⏰ <% "{{TIME}}" %> `button-record-time`
-    - Duration: ⏱️ <% "{{DURATION}}" %>3
+### 🟡 Medium Priority
+- [ ] 
+
+### 🟢 Low Priority
+- [ ] 

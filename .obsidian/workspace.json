@@ -26,12 +26,15 @@
             "id": "3ce882e56bf41c9c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md"
+                "file": "5-Templates/daily-task-template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-01 21.34.37.excalidraw"
+              "icon": "lucide-file",
+              "title": "daily-task-template"
             }
           }
         ],
@@ -153,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md"
+                "file": "5-Templates/daily-task-template.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-12-01 21.34.37.excalidraw"
+              "title": "Outline of daily-task-template"
             }
           },
           {
@@ -194,13 +197,13 @@
   },
   "active": "3ce882e56bf41c9c",
   "lastOpenFiles": [
+    "5-Templates/meeting-template.md",
+    "5-Templates/daily-task-template.md",
+    "8-Tasks/2024-12-01 dsfdsfds.md",
     "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
     "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md",
-    "8-Tasks/2024-12-01 dsfdsfds.md",
-    "5-Templates/daily-task-template.md",
     "scripts/timeTracker.js",
     "8-Tasks",
-    "5-Templates/meeting-template.md",
     "Calender",
     "5-Templates/Daily-Tasks.md",
     "8-DailyTasks/Untitled 1.md",
