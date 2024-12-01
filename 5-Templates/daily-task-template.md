@@ -15,7 +15,7 @@ let taskName = await tp.system.prompt("Enter task name")
 await tp.file.move("8-Tasks/" + newDate + " " + taskName)
 -%>
 
-# Task: <% taskName %>
+# Task: <%= taskName %>
 
 ### Time Tracking
 Start Time: `$= dv.date(dv.current().startTime || "Not started")`

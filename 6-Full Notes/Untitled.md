@@ -1,6 +1,11 @@
 ---
 tags:
-  - 📅/task
+  - 📅
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
+---
+---
+tags: 📅
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 ---
@@ -9,39 +14,29 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 let dateValue = await tp.system.suggester(["today", "yesterday", "tomorrow"], ["today", "yesterday", "tomorrow"])
 let newDate = app.plugins.plugins['nldates-obsidian'].parseDate(dateValue).moment.format("YYYY-MM-DD")
 
-// Get task name through direct input
-let taskName = await tp.system.prompt("Enter task name")
+// Get project name through direct input
+let projectName = await tp.system.prompt("Enter project name")
 
 // Move file
-await tp.file.move("8-Tasks/" + newDate + " " + taskName)
+await tp.file.move("7-Meetings/" + newDate + " " + projectName)
 -%>
 
-# Task: <% taskName %>
+[[<% projectName %>]]
 
-### Time Tracking
-Start Time: `$= dv.date(dv.current().startTime || "Not started")`
-End Time: `$= dv.date(dv.current().endTime || "Not ended")`
-Duration: `$= dv.duration(dv.current().startTime, dv.current().endTime) || "In progress"`
-
-### Status
-- [ ] Started
-- [ ] Completed
-
-### Task Details
-- **Priority**: 
-- **Project**: [[]]
-- **Category**: 
+### Prep
+- [ ] Review previous meeting notes
+- [ ] Prepare agenda items
+- [ ] Gather necessary documents
 
 ### Notes
 - 
 
-### Blockers
-- 
+### Action Items
+- [ ] 
+- [ ] 
 
-### Time Log
-| Start | End | Duration | Notes |
-|-------|-----|----------|-------|
-|       |     |          |       |
 
-### Related Tasks
-- 
+### Follow-up
+- [ ] Send meeting minutes
+- [ ] Schedule next meeting
+- [ ] Update project timeline
