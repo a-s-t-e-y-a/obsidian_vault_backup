@@ -181,9 +181,10 @@
   },
   "active": "eb6f52e2ebe218a3",
   "lastOpenFiles": [
-    "8-Tasks",
     "5-Templates/daily-task-template.md",
     "8-Tasks/2024-12-01 dsfdsfds.md",
+    "scripts/timeTracker.js",
+    "8-Tasks",
     "5-Templates/meeting-template.md",
     "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
     "Calender",
@@ -214,8 +215,6 @@
     "7-Meetings",
     "5-Templates/Full note.md",
     "Excalidraw",
-    "6-Full Notes",
-    "4-Indexes",
-    "3-Tags"
+    "6-Full Notes"
   ]
 }
