@@ -11,7 +11,6 @@ _%>
 
 # Daily Tasks - <% tp.date.now("YYYY-MM-DD") %>
 
-## Morning Routine
 
 ## Today's Tasks
 ### 🔴 High Priority
