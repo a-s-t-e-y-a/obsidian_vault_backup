@@ -17,7 +17,8 @@ abstract methods can only be used inside the abstract class  if you define abstr
 if you don't implement abstract method inside the subclass then you'll get the error
 
 
-## constructor 
+## constructor  or methods 
+
 
 
 
