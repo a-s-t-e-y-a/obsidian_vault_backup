@@ -127,8 +127,7 @@ ImaginaryNumber (Number ka child)
 
 - Basic Rule:
 
-	 Agar aapka method kisi class type ko return karta hai, toh aap us class ya uske kisi bhi subclass ka object return kar sakte hain
-
+		 Agar aapka method kisi class type ko return karta hai, toh aap us class ya uske kisi bhi subclass ka object return kar sakte hain
 		Lekin parent class ka object return nahi kar sakte
 
 
