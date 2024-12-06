@@ -45,4 +45,5 @@ if you don't implement abstract method inside the subclass then you'll get the e
 
 
 ## Important 
+- [ ] creation of class is same as instantiating a class " When you create an object, you are creating an "instance" of a class, therefore "instantiating" a class"
 - [ ] 
