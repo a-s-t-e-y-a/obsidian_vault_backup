@@ -31,6 +31,29 @@ if you don't implement abstract method inside the subclass then you'll get the e
  - methods within a class can have the same name if they have different parameter lists
  - Overloaded methods are differentiated by the number and the type of the arguments passed into the method. In the code sample, `draw(String s)` and `draw(int i)` are distinct and unique methods because they require different argument types.
 
+## garbage collection 
+
+- whenever references gets destroyed it is available for the garbage collection in java 
+```
+public class Main {
+    public static void main(String[] args) {
+        // Create object
+        Student s1 = new Student("Rahul");
+        
+        // Object loses its reference (eligible for garbage collection)
+        s1 = null;
+        
+        // Another example
+        {
+            Student s2 = new Student("Priya");
+            // s2 will be eligible for garbage collection after this block
+        }
+        // s2 is out of scope here
+    }
+}
+```
+```
+```
 ## protected vs private 
 
 ##### protected 
