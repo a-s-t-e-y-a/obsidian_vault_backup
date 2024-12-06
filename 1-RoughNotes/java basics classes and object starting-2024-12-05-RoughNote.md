@@ -15,10 +15,13 @@ abstract can also be used with methods means that method can have only signature
 abstract methods can only be used inside the abstract class  if you define abstract method inside a normal class you'll get the error 
 
 if you don't implement abstract method inside the subclass then you'll get the error
-
-
 ## constructor  or methods 
 
+
+## protected vs private 
+
+##### protected 
+ . [  ] accessible within the subclass and package
 
 
 
