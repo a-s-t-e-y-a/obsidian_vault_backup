@@ -30,7 +30,57 @@ if you don't implement abstract method inside the subclass then you'll get the e
 ##### overloading methods 
  - methods within a class can have the same name if they have different parameter lists
  - Overloaded methods are differentiated by the number and the type of the arguments passed into the method. In the code sample, `draw(String s)` and `draw(int i)` are distinct and unique methods because they require different argument types.
+##### constructor inheritance 
 
+- whenever the parent class has the constructor then the subclass have to call its constructor 
+###### default constructor case
+```
+class Parent {
+    // No constructor defined - Java will create default constructor
+}
+
+class Child extends Parent {
+    Child() {
+        // super() is automatically called here because parent class dont have any kind of constructor
+    }
+}
+```
+
+###### multiple constructor case
+
+```
+// Parent Class
+class Vehicle {
+    String brand;
+    
+    // Default constructor
+    Vehicle() {
+        brand = "Unknown";
+    }
+    
+    // Parameterized constructor
+    Vehicle(String brand) {
+        this.brand = brand;
+    }
+}
+
+// Child Class
+class Car extends Vehicle {
+    String model;
+    
+    // First constructor
+    Car() {
+        super();     // Parent ka default constructor call kiya
+        model = "Basic";
+    }
+    
+    // Second constructor
+    Car(String brand, String model) {
+        super(brand);  // Parent ka parameterized constructor call kiya
+        this.model = model;
+    }
+}
+```
 ## garbage collection 
 
 - whenever references gets destroyed it is available for the garbage collection in java 
@@ -69,6 +119,17 @@ public class Main {
 
 ## Returning a Class or Interface
 
+Object (sabse upar)
+   ↑
+Number (Object ka child)
+   ↑
+ImaginaryNumber (Number ka child)
+
+- Basic Rule:
+
+	 Agar aapka method kisi class type ko return karta hai, toh aap us class ya uske kisi bhi subclass ka object return kar sakte hain
+
+		Lekin parent class ka object return nahi kar sakte
 
 
 ## Important 
