@@ -17,11 +17,21 @@ abstract methods can only be used inside the abstract class  if you define abstr
 if you don't implement abstract method inside the subclass then you'll get the error
 ## constructor  or methods 
 
+##### rules to define constructor
+ - same  name like class name 
+ - no return type { nor int ,void , string , char }
+ - constructor can have modifier {private , protected ,public }
 
 ## protected vs private 
 
 ##### protected 
- . [  ] accessible within the subclass and package
+ -  accessible within the subclass and package
+ - use for inheritance 
+
+##### private 
+ - Accessible only within the same class.
+ - No, not accessible by other classes in the same package.
+ - Used for encapsulation, hiding internal details.
 
 
 
