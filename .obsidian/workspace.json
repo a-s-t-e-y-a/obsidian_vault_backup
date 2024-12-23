@@ -111,9 +111,21 @@
               "icon": "lucide-file",
               "title": "java basics classes and object starting-2024-12-05-RoughNote"
             }
+          },
+          {
+            "id": "24e65e90c5ff74be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-23 14.30.54.excalidraw"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -266,14 +278,16 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3477a1663347d6c3",
+  "active": "24e65e90c5ff74be",
   "lastOpenFiles": [
-    "7-Meetings/2024-12-07 evc workflow.md",
     "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
+    "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
+    "7-Meetings/2024-12-07 evc workflow.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
     "5-Templates/rough-note-template.md",
@@ -304,7 +318,6 @@
     "8-Tasks",
     "Calender",
     "5-Templates/Daily-Tasks.md",
-    "8-DailyTasks/Untitled 1.md",
     "scripts/timer.js",
     "scripts"
   ]
