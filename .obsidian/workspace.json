@@ -116,12 +116,15 @@
             "id": "24e65e90c5ff74be",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md"
+                "file": "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-23 14.30.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "java basics classes and object starting-2024-12-05-RoughNote"
             }
           }
         ],
@@ -284,9 +287,9 @@
   },
   "active": "24e65e90c5ff74be",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
     "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
-    "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
     "7-Meetings/2024-12-07 evc workflow.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
