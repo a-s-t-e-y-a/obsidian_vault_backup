@@ -116,19 +116,28 @@
             "id": "24e65e90c5ff74be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "java basics classes and object starting-2024-12-05-RoughNote"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-23 14.30.54.excalidraw"
+            }
+          },
+          {
+            "id": "bb5088ba55b0413a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-23 23.34.33.excalidraw"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -285,11 +294,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24e65e90c5ff74be",
+  "active": "bb5088ba55b0413a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
-    "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
+    "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md",
     "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
+    "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "7-Meetings/2024-12-07 evc workflow.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
@@ -320,7 +330,6 @@
     "scripts/timeTracker.js",
     "8-Tasks",
     "Calender",
-    "5-Templates/Daily-Tasks.md",
     "scripts/timer.js",
     "scripts"
   ]
