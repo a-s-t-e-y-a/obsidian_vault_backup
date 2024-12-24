@@ -128,12 +128,12 @@
             "id": "bb5088ba55b0413a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2024-12-23 23.34.33.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-23 14.30.54.excalidraw"
             }
           }
         ],
@@ -290,13 +290,14 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "bb5088ba55b0413a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
     "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
     "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "7-Meetings/2024-12-07 evc workflow.md",
