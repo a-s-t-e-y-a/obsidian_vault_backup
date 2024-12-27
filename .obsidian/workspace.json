@@ -174,7 +174,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -314,23 +314,23 @@
   },
   "active": "25dab29fbd83d4a0",
   "lastOpenFiles": [
+    "1-RoughNotes/mysirg java part 2 data types-2024-12-27-RoughNote.md",
     "1-RoughNotes/mysrg comments || type conversion-2024-12-27-RoughNote.md",
     "1-RoughNotes/my sirg classes and objects-2024-12-27-RoughNote.md",
+    "1-RoughNotes/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
+    "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
+    "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "Pasted image 20241227192340.png",
     "Tradiejam-frontend-bugs.md",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227130300.png",
     "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
-    "1-RoughNotes/mysirg java part 2 data types-2024-12-27-RoughNote.md",
-    "1-RoughNotes/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
     "5-Templates/bugs-template.md",
     "5-Templates/meeting-template.md",
     "5-Templates/rough-note-template.md",
     "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md",
     "9-Bugs",
     "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
-    "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
-    "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "7-Meetings/2024-12-07 evc workflow.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
