@@ -11,7 +11,7 @@ path: "1-RoughNotes/2024-12-27"
 - [ ] main class should be of the either public , or none
 - [ ] all predefined class in java start with capital letter like { System , String}
 - [ ] if we use static before any function we can use that function without calling the instance of that class
-- [ ] 
+- [ ] Strings [] args should be pass every time in main function which is responsible for the getting arguments from the  
 
 ## Thoughts
 - [ ] 
