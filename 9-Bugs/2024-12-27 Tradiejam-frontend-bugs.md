@@ -12,6 +12,11 @@ modified: 2024-12-27
 - [ ] bugs in online booking URL should be resolved that doesn't call API perfectly 
 - [ ] Are you sure, your saved changes will be removed ? In Services 
 - [ ] Question should not be required it should be optional
+- [ ] If Description is bigger then it should collapse in three lines
+- [ ] ![[Pasted image 20241227130300.png]] here should be placeholder be Book Service Online 
+- [ ] ![[Pasted image 20241227130440.png]]
+      this page should not be visible until user added the service
+ - [ ] place holder should be change for all steps 
 
 ### Notes
 - 
