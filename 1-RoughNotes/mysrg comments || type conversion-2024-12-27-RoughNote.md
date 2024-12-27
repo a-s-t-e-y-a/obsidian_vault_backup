@@ -38,8 +38,90 @@ int y = (int)x;
 ```
 
 ```
-float k =3.5;
-float k = 3.
+float k =3.5;          // error 
+float k = 3.5f;        // no error
 ```
+
+### [ permitted conversion ]
+
+Implicit (Widening) Conversions:
+
+- byte → short
+
+- byte → int
+
+- byte → long
+
+- byte → float
+
+- byte → double
+
+- short → int
+
+- short → long
+
+- short → float
+
+- short → double
+
+- int → long
+
+- int → float
+
+- int → double
+
+- long → float
+
+- long → double
+
+- float → double
+
+Explicit (Narrowing) Conversions:
+
+- double → float
+
+- double → long
+
+- double → int
+
+- float → int
+
+- float → long
+
+- long → int
+
+- long → short
+
+- long → byte
+
+- int → short
+
+- int → byte
+
+- short → byte
+
+#### 2. Object Type Conversions
+
+Upcasting (Implicit):
+
+- Dog → Animal (if Dog extends Animal)
+
+- Cat → Animal (if Cat extends Animal)
+
+Downcasting (Explicit):
+
+- Animal → Dog (if the actual object is a Dog)
+
+- Animal → Cat (if the actual object is a Cat)
+
+#### 3. String Conversions
+
+- int → String using String.valueOf(int)
+
+- double → String using String.valueOf(double)
+
+- String → int using Integer.parseInt(String)
+
+- String → double using Double.parseDouble(String)
 ## Thoughts
 - [ ] 
