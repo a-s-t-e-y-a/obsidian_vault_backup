@@ -143,12 +143,15 @@
             "id": "25dab29fbd83d4a0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241227130440.png"
+                "file": "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241227130440"
+              "icon": "lucide-file",
+              "title": "2024-12-27 Tradiejam-frontend-bugs"
             }
           }
         ],
@@ -311,8 +314,8 @@
   },
   "active": "25dab29fbd83d4a0",
   "lastOpenFiles": [
-    "Pasted image 20241227192340.png",
     "Pasted image 20241227130440.png",
+    "Pasted image 20241227192340.png",
     "Pasted image 20241227130300.png",
     "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "1-RoughNotes/my sirg classes and objects-2024-12-27-RoughNote.md",
