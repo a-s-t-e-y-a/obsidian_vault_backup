@@ -14,7 +14,7 @@ modified: 2024-12-27
 - [ ] Question should not be required it should be optional
 - [x] If Description is bigger then it should collapse in three lines![[Pasted image 20241227130440.png]]
 - [x] ![[Pasted image 20241227130300.png]] here should be placeholder be Book Service Online 
-- [ ] ![[Pasted image 20241227130440.png]]
+- [x] ![[Pasted image 20241227130440.png]]
       this page should not be visible until user added the service
  - [x] place holder should be change for all steps 
 
