@@ -143,15 +143,12 @@
             "id": "25dab29fbd83d4a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Pasted image 20241227130440.png"
               },
-              "icon": "lucide-file",
-              "title": "2024-12-27 Tradiejam-frontend-bugs"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241227130440"
             }
           }
         ],
@@ -314,17 +311,17 @@
   },
   "active": "25dab29fbd83d4a0",
   "lastOpenFiles": [
+    "Pasted image 20241227192340.png",
+    "Pasted image 20241227130440.png",
+    "Pasted image 20241227130300.png",
+    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "1-RoughNotes/my sirg classes and objects-2024-12-27-RoughNote.md",
     "1-RoughNotes/mysirg java part 2 data types-2024-12-27-RoughNote.md",
     "1-RoughNotes/mysrg comments || type conversion-2024-12-27-RoughNote.md",
     "1-RoughNotes/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
     "1-RoughNotes/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
-    "Pasted image 20241227192340.png",
     "Tradiejam-frontend-bugs.md",
-    "Pasted image 20241227130440.png",
-    "Pasted image 20241227130300.png",
-    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "5-Templates/bugs-template.md",
     "5-Templates/meeting-template.md",
     "5-Templates/rough-note-template.md",
@@ -345,7 +342,6 @@
     "5-Templates/hi-college-task.md",
     "5-Templates/comvosense-task.md",
     "5-Templates/evc-workflow-task.md",
-    "5-Templates/base-task-template.md",
     "9-ProjectTasks/Tradiejam",
     "9-ProjectTasks/Hi-College",
     "9-ProjectTasks",
