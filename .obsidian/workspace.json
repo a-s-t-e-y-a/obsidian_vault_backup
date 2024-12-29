@@ -153,9 +153,21 @@
               "icon": "lucide-file",
               "title": "2024-12-27 Tradiejam-frontend-bugs"
             }
+          },
+          {
+            "id": "7c5807e67bd61d1c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-29 22.09.15.excalidraw"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -308,14 +320,16 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25dab29fbd83d4a0",
+  "active": "7c5807e67bd61d1c",
   "lastOpenFiles": [
+    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+    "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227130300.png",
-    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "Pasted image 20241227192340.png",
     "1-RoughNotes/my sirg classes and objects-2024-12-27-RoughNote.md",
     "1-RoughNotes/mysirg java part 2 data types-2024-12-27-RoughNote.md",
