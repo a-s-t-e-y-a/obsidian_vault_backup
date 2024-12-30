@@ -158,12 +158,12 @@
             "id": "7c5807e67bd61d1c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-23 14.30.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Drawing 2024-12-23 14.30.54.excalidraw"
             }
           }
         ],
@@ -320,8 +320,7 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "7c5807e67bd61d1c",
