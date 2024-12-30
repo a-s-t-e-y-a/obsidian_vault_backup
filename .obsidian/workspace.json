@@ -33,9 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-12-30 22.13.27.excalidraw"
             }
+          },
+          {
+            "id": "9fe1b8cf43b1f035",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-30 22.46.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-30 22.46.15.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0961d264353dc5ab",
+  "active": "9fe1b8cf43b1f035",
   "lastOpenFiles": [
-    "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-30 22.46.15.excalidraw.md",
+    "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik",
     "1-RoughNotes/null-2024-12-30-RoughNote.md",
@@ -230,7 +243,6 @@
     "1-RoughNotes",
     "5-Templates/full-note-template.md",
     "5-Templates/daily-task-template.md",
-    "5-Templates/personal-task.md",
     "9-ProjectTasks/Tradiejam",
     "9-ProjectTasks/Hi-College"
   ]
