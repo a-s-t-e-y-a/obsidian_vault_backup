@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "krish-naik-ai-agentic-2024-12-30-RoughNote"
             }
+          },
+          {
+            "id": "0961d264353dc5ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-30 22.13.27.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +192,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f573c29fb70c23",
+  "active": "0961d264353dc5ab",
   "lastOpenFiles": [
-    "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
+    "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md",
+    "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik",
     "1-RoughNotes/null-2024-12-30-RoughNote.md",
     "1-RoughNotes/java",
@@ -217,7 +231,6 @@
     "5-Templates/full-note-template.md",
     "5-Templates/daily-task-template.md",
     "5-Templates/personal-task.md",
-    "5-Templates/hi-college-task.md",
     "9-ProjectTasks/Tradiejam",
     "9-ProjectTasks/Hi-College"
   ]
