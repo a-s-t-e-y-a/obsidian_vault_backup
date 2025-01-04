@@ -66,5 +66,10 @@ In short, just remember to only use `for...in` loops to iterate over objects, no
 for is for general purpose can be used for and specific task
 for ...of for the only special purpose like array , map and sets 
 
+
+# forEach 
+
+used for arrays but different then for because it cannot break and continue
+
 ## Thoughts
 - [ ] 
