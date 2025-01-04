@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/javascript--loops-2025-01-05-RoughNote.md",
+                "file": "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -219,10 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d57fe774de91d67",
+  "active": "59f573c29fb70c23",
   "lastOpenFiles": [
+    "1-RoughNotes/javascript",
     "1-RoughNotes/java/my sirg classes and objects-2024-12-27-RoughNote.md",
-    "1-RoughNotes/javascript--loops-2025-01-05-RoughNote.md",
+    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
     "Excalidraw/Drawing 2024-12-30 22.46.15.excalidraw.md",
     "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md",
@@ -256,7 +257,6 @@
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
     "1-RoughNotes/java basics and code practice-2024-12-05-RoughNote.md",
-    "1-RoughNotes/2024-12-05.md",
     "1-RoughNotes",
     "9-ProjectTasks/Tradiejam",
     "9-ProjectTasks/Hi-College"

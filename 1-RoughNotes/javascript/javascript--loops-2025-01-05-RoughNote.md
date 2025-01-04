@@ -4,6 +4,11 @@ path: "1-RoughNotes/2025-01-05"
 ---
 # Rough Note - 2025-01-05
 
+
+# for loop
+
+for loop is for until we met a condition 
+
 ### Common Pitfall:  for ... in**Unexpected Behavior When Iterating Over an Array**
 
 Though you can use a `for...in` loop to iterate over an array, it's recommended to use a regular `for` or `for...of` loop instead.
@@ -48,6 +53,18 @@ Though modifying read-only prototypes like `Array` or `Object` directly goes aga
 Also, since the `for...in` is meant for objects, it's much slower with arrays than other loops.
 
 In short, just remember to only use `for...in` loops to iterate over objects, not arrays.
+
+
+
+# for ...of
+
+`for...of` loop iterates over  array , special collection types like map , set and etc 
+
+
+# difference between for and for ... of 
+
+for is for general purpose can be used for and specific task
+for ...of for the only special purpose like array , map and sets 
 
 ## Thoughts
 - [ ] 
