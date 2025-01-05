@@ -57,9 +57,21 @@
               "icon": "lucide-file-text",
               "title": "Kafka_Course_Structure_Full"
             }
+          },
+          {
+            "id": "aa5232bc13f597c2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-05 11.24.12.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-05 11.24.12.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,10 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d57fe774de91d67",
+  "active": "aa5232bc13f597c2",
   "lastOpenFiles": [
-    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
+    "Excalidraw/Drawing 2025-01-05 11.24.12.excalidraw.md",
+    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "roadmaps_pdf",
     "1-RoughNotes/javascript",
     "1-RoughNotes/java/my sirg classes and objects-2024-12-27-RoughNote.md",
@@ -254,7 +267,6 @@
     "7-Meetings/2024-12-07 evc workflow.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
-    "1-RoughNotes/java basics and code practice-2024-12-05-RoughNote.md",
     "1-RoughNotes"
   ]
 }
