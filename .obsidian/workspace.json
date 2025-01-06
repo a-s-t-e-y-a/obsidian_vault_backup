@@ -62,12 +62,15 @@
             "id": "aa5232bc13f597c2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-05 11.24.12.excalidraw.md"
+                "file": "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2025-01-05 11.24.12.excalidraw"
+              "title": "2024-12-27 Tradiejam-frontend-bugs"
             }
           }
         ],
@@ -224,13 +227,20 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "aa5232bc13f597c2",
   "lastOpenFiles": [
-    "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
+    "Pasted image 20241227130440.png",
+    "Pasted image 20241227192340.png",
+    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+    "7-Meetings/2024-12-07 evc workflow.md",
+    "8-DailyTasks/2024-12-02.md",
+    "8-DailyTasks/2024-12-03.md",
     "Excalidraw/Drawing 2025-01-05 11.24.12.excalidraw.md",
+    "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "roadmaps_pdf",
     "1-RoughNotes/javascript",
@@ -245,17 +255,12 @@
     "1-RoughNotes/java",
     "Untitled 2",
     "Untitled 1",
-    "8-DailyTasks/2024-12-02.md",
-    "8-DailyTasks/2024-12-03.md",
     "5-Templates/rough-note-template.md",
     "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
     "5-Templates/bugs-template.md",
-    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md",
     "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md",
-    "Pasted image 20241227130440.png",
     "Pasted image 20241227130300.png",
-    "Pasted image 20241227192340.png",
     "1-RoughNotes/java/mysirg java part 2 data types-2024-12-27-RoughNote.md",
     "1-RoughNotes/java/mysrg comments || type conversion-2024-12-27-RoughNote.md",
     "1-RoughNotes/java/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
@@ -263,7 +268,6 @@
     "Tradiejam-frontend-bugs.md",
     "5-Templates/meeting-template.md",
     "9-Bugs",
-    "7-Meetings/2024-12-07 evc workflow.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "6-FullNotes",
     "1-RoughNotes"
