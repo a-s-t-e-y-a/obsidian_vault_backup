@@ -12,8 +12,6 @@ path: "8-DailyTasks/2025-01-28"
 - [ ] if order id provided then you'll have to create the record
 - [ ] check for the order id if any order exist or not
 - [ ] then fetch from the tenant id the employee id
-- [ ] 
-
 ### 🟡 Medium Priority
 - [ ] 
 
