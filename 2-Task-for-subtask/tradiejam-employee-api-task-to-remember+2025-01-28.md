@@ -11,7 +11,8 @@ path: "8-DailyTasks/2025-01-28"
 - [ ] post request for creating the timeline for starting
 - [ ] if order id provided then you'll have to create the record
 - [ ] check for the order id if any order exist or not
-- [ ] then fetch from the tenant id the employee id
+- [ ] then in next step you gonna get photo with key name start_photo
+- [ ] 
 ### 🟡 Medium Priority
 - [ ] 
 
