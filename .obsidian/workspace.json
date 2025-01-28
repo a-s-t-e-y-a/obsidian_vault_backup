@@ -72,9 +72,21 @@
               "icon": "lucide-file",
               "title": "2025-01-09"
             }
+          },
+          {
+            "id": "b19ee11dd31ef394",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-28 15.04.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-28 15.04.29.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,13 +239,15 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa5232bc13f597c2",
+  "active": "b19ee11dd31ef394",
   "lastOpenFiles": [
-    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "8-DailyTasks/2025-01-09.md",
+    "Excalidraw/Drawing 2025-01-28 15.04.29.excalidraw.md",
+    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "Untitled 1.md",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227192340.png",
@@ -267,7 +281,6 @@
     "1-RoughNotes/java/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
     "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
     "Tradiejam-frontend-bugs.md",
-    "5-Templates/meeting-template.md",
     "9-Bugs",
     "6-FullNotes",
     "1-RoughNotes"
