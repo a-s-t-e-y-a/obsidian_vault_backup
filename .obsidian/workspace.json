@@ -77,12 +77,15 @@
             "id": "b19ee11dd31ef394",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-28 15.04.29.excalidraw.md"
+                "file": "5-Templates/task-for-a particular-subtask-project.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-28 15.04.29.excalidraw"
+              "icon": "lucide-file",
+              "title": "task-for-a particular-subtask-project"
             }
           }
         ],
@@ -245,9 +248,16 @@
   },
   "active": "b19ee11dd31ef394",
   "lastOpenFiles": [
+    "2-Task-for-subtask/2025-01-28.md",
+    "5-Templates/task-for-a particular-subtask-project.md",
+    "2-Task-for-subtask",
+    "5-Templates/daily-task-template.md",
+    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+    "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
+    "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
     "8-DailyTasks/2025-01-09.md",
     "Excalidraw/Drawing 2025-01-28 15.04.29.excalidraw.md",
-    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+    "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "Untitled 1.md",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227192340.png",
@@ -255,7 +265,6 @@
     "8-DailyTasks/2024-12-02.md",
     "8-DailyTasks/2024-12-03.md",
     "Excalidraw/Drawing 2025-01-05 11.24.12.excalidraw.md",
-    "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "roadmaps_pdf",
     "1-RoughNotes/javascript",
@@ -276,13 +285,7 @@
     "Excalidraw/Drawing 2024-12-23 23.34.33.excalidraw.md",
     "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md",
     "Pasted image 20241227130300.png",
-    "1-RoughNotes/java/mysirg java part 2 data types-2024-12-27-RoughNote.md",
-    "1-RoughNotes/java/mysrg comments || type conversion-2024-12-27-RoughNote.md",
-    "1-RoughNotes/java/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
-    "1-RoughNotes/java basics this keywords-2024-12-06-RoughNote.md",
-    "Tradiejam-frontend-bugs.md",
     "9-Bugs",
-    "6-FullNotes",
-    "1-RoughNotes"
+    "6-FullNotes"
   ]
 }
