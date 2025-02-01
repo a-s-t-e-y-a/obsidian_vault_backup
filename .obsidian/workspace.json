@@ -99,9 +99,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-01 12.17.00.excalidraw"
             }
+          },
+          {
+            "id": "124bc9a5f0a0bbd6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-01 12.17.00.excalidraw"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -258,10 +270,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cf9cb68f304d775",
+  "active": "124bc9a5f0a0bbd6",
   "lastOpenFiles": [
-    "8-DailyTasks/2025-02-01.md",
+    "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
+    "8-DailyTasks/2025-02-01.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
     "Untitled.md",
     "5-Templates/task-for-a particular-subtask-project.md",
@@ -295,7 +308,6 @@
     "1-RoughNotes/java",
     "Untitled 2",
     "Untitled 1",
-    "5-Templates/rough-note-template.md",
     "Pasted image 20241227130300.png",
     "9-Bugs",
     "6-FullNotes"
