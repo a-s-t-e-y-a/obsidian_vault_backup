@@ -79,13 +79,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
+                "file": "8-DailyTasks/2025-02-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tradiejam-employee-api-task-to-remember+2025-01-28"
+              "title": "2025-02-01"
             }
           }
         ],
@@ -242,13 +242,16 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "b19ee11dd31ef394",
   "lastOpenFiles": [
-    "5-Templates/task-for-a particular-subtask-project.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
+    "8-DailyTasks/2025-02-01.md",
+    "Untitled.md",
+    "5-Templates/task-for-a particular-subtask-project.md",
     "5-Templates/daily-task-template.md",
     "5-Templates/full-note-template.md",
     "2-Task-for-subtask/2025-01-28.md",
@@ -259,7 +262,6 @@
     "8-DailyTasks/2025-01-09.md",
     "Excalidraw/Drawing 2025-01-28 15.04.29.excalidraw.md",
     "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
-    "Untitled 1.md",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227192340.png",
     "7-Meetings/2024-12-07 evc workflow.md",
@@ -282,7 +284,6 @@
     "Untitled 1",
     "5-Templates/rough-note-template.md",
     "Excalidraw/Drawing 2024-12-23 14.30.54.excalidraw.md",
-    "5-Templates/bugs-template.md",
     "Pasted image 20241227130300.png",
     "9-Bugs",
     "6-FullNotes"
