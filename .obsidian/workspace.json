@@ -104,16 +104,28 @@
             "id": "124bc9a5f0a0bbd6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "excalidraw-loading",
               "state": {
                 "file": "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-01 12.17.00.excalidraw"
+              "icon": "lucide-file",
+              "title": "Loading Excalidraw... Drawing 2025-02-01 12.17.00.excalidraw"
+            }
+          },
+          {
+            "id": "474ebaea1aa62c9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -266,11 +279,10 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "124bc9a5f0a0bbd6",
+  "active": "474ebaea1aa62c9b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
