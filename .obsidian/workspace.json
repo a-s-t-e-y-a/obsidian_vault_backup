@@ -104,28 +104,16 @@
             "id": "124bc9a5f0a0bbd6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2025-02-01 12.17.00.excalidraw"
-            }
-          },
-          {
-            "id": "474ebaea1aa62c9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-01 12.26.32.excalidraw"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -279,13 +267,14 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "474ebaea1aa62c9b",
+  "active": "124bc9a5f0a0bbd6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "8-DailyTasks/2025-02-01.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
     "Untitled.md",
