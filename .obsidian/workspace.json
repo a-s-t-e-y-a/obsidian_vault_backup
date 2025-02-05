@@ -104,16 +104,28 @@
             "id": "124bc9a5f0a0bbd6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2025-02-01 12.17.00.excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-01 12.17.00.excalidraw"
+            }
+          },
+          {
+            "id": "6bac39aa3f05afa0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-05 11.53.18.excalidraw"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -267,13 +279,15 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "124bc9a5f0a0bbd6",
+  "active": "6bac39aa3f05afa0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "8-DailyTasks/2025-02-01.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
     "Untitled.md",
@@ -304,7 +318,6 @@
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik",
-    "1-RoughNotes/null-2024-12-30-RoughNote.md",
     "1-RoughNotes/java",
     "Untitled 2",
     "Untitled 1",
