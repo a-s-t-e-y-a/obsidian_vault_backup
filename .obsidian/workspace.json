@@ -123,9 +123,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-05 11.53.18.excalidraw"
             }
+          },
+          {
+            "id": "43e8d3b2b9040f7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-08 02.21.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-08 02.21.40.excalidraw"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -283,10 +295,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6bac39aa3f05afa0",
+  "active": "43e8d3b2b9040f7e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
     "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-08 02.21.40.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "8-DailyTasks/2025-02-01.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
@@ -316,7 +329,6 @@
     "Excalidraw/Drawing 2024-12-30 22.46.15.excalidraw.md",
     "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
-    "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik",
     "1-RoughNotes/java",
     "Untitled 2",
