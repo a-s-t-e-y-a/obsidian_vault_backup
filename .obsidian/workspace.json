@@ -128,12 +128,24 @@
             "id": "43e8d3b2b9040f7e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw-loading",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-08 02.21.40.excalidraw.md"
+                "file": "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Loading Excalidraw... Drawing 2025-02-08 02.21.40.excalidraw"
+              "title": "golang-baiscs-2025-02-11-RoughNote"
             }
           }
         ],
@@ -291,13 +303,21 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43e8d3b2b9040f7e",
+  "active": "59f573c29fb70c23",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
+    "1-RoughNotes/go-lang",
+    "Untitled 1",
+    "Untitled",
+    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
+    "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
+    "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
+    "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "Excalidraw/Drawing 2025-02-08 02.21.40.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "8-DailyTasks/2025-02-01.md",
@@ -320,20 +340,13 @@
     "8-DailyTasks/2024-12-02.md",
     "8-DailyTasks/2024-12-03.md",
     "Excalidraw/Drawing 2025-01-05 11.24.12.excalidraw.md",
-    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "roadmaps_pdf",
     "1-RoughNotes/javascript",
     "1-RoughNotes/java/my sirg classes and objects-2024-12-27-RoughNote.md",
-    "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-30 22.46.15.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md",
-    "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik",
     "1-RoughNotes/java",
     "Untitled 2",
-    "Untitled 1",
     "Pasted image 20241227130300.png",
-    "9-Bugs",
-    "6-FullNotes"
+    "9-Bugs"
   ]
 }
