@@ -26,5 +26,9 @@ path: "6-FullNotes/undefined-2025-02-11-FullNote"
 		- [ ] git blame
 		- [ ] git config --global rerere.enabled true
 	```
+- [ ] git push --force-with-lease {{ kinda use full }}
+- [ ] signing commits with ssh
+- [ ] git push --signed { we can signed our pushed our github and gitlab doesn't support this}
+- [ ] git maintainance
 - [ ] 
 ## Details
