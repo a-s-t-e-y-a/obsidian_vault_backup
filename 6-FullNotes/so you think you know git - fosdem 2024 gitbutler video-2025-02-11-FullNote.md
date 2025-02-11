@@ -14,7 +14,10 @@ path: "6-FullNotes/undefined-2025-02-11-FullNote"
 	creates the alias that can used with 
 	 git c "my commit message"
 	```
-- [ ]  
+- [ ]  you can also run bash file from the git alias 
+     you just need to add bash file to your path 
+	    ` echo $PATH`
+	    get the path and add to your path now just create alias out of it
+	    ` git config --global alias.bb '!better-branch.sh'`
+	    
 ## Details
-- [ ]  creates the alias that can used with 
-- [ ] git c "my commit message"
