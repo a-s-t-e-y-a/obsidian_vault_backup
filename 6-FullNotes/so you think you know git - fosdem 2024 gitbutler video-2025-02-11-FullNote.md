@@ -19,5 +19,5 @@ path: "6-FullNotes/undefined-2025-02-11-FullNote"
 	    ` echo $PATH`
 	    get the path and add to your path now just create alias out of it
 	    ` git config --global alias.bb '!better-branch.sh'`
-	    
+- [ ] git oldies that needed to get 
 ## Details
