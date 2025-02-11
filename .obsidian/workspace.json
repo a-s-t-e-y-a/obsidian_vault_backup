@@ -147,9 +147,21 @@
               "icon": "lucide-file",
               "title": "so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote"
             }
+          },
+          {
+            "id": "9a29c9d78ce4167b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-11 16.25.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-11 16.25.04.excalidraw"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -307,11 +319,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43e8d3b2b9040f7e",
+  "active": "9a29c9d78ce4167b",
   "lastOpenFiles": [
+    "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
+    "Excalidraw/Drawing 2025-02-11 16.25.04.excalidraw.md",
     "Pasted image 20250211133059.png",
     "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
-    "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
     "1-RoughNotes/go-lang",
     "Untitled 1",
     "Untitled",
