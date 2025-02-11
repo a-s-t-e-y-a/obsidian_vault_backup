@@ -30,5 +30,11 @@ path: "6-FullNotes/undefined-2025-02-11-FullNote"
 - [ ] signing commits with ssh
 - [ ] git push --signed { we can signed our pushed our github and gitlab doesn't support this}
 - [ ] git maintainance
+
+# big repo for git
+
+now when we talk about big repos in that can size around 300 gb or something like github then we need  `big repo stuff` for the github
+
+- [ ] vfs for git { virtual file system for git}
 - [ ] 
 ## Details
