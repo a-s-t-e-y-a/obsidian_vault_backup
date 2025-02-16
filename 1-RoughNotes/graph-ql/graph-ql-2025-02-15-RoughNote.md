@@ -9,7 +9,8 @@ path: "1-RoughNotes/2025-02-15"
 - [ ] we can solve this problem in REST api also but we have to make new route every time for full fillment of the requirement and this also don't provide frontend the advantage of doing this so.
 - [ ] okay like if we need name from user and post from blog we can do this in rest by using select and include in prisma but if after some months now user need comments all then we need to update backend by versioning and that created lots of development and api versioning 
 - [ ] this can be solve by graph ql we can demand from the backend what we need and without changing backend we can make demand what we need and what is going to work for us
-- [ ] graph ql and rest api both uses http/http2 protocol in the backhood 
+- [ ] graph ql and rest api both uses http/http2 protocol in the backend
+- [ ] 
 ### if frontend demands what we need this can lead to security concern 
 
 --- if frontend demand what we need to take care of security also 

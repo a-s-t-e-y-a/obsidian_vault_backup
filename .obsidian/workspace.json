@@ -154,7 +154,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/graph-ql-2025-02-15-RoughNote.md",
+                "file": "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -169,7 +169,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "graph-ql-2025-02-15-RoughNote"
+              "title": "golang-baiscs-2025-02-11-RoughNote"
             }
           }
         ],
@@ -333,14 +333,16 @@
   },
   "active": "9a29c9d78ce4167b",
   "lastOpenFiles": [
+    "1-RoughNotes/graph-ql/graph-ql-2025-02-15-RoughNote.md",
+    "1-RoughNotes/Untitled",
+    "Untitled",
+    "1-RoughNotes/graph-ql",
     "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
-    "1-RoughNotes/graph-ql-2025-02-15-RoughNote.md",
     "Excalidraw/Drawing 2025-02-11 16.25.04.excalidraw.md",
     "Pasted image 20250211133059.png",
     "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
     "1-RoughNotes/go-lang",
     "Untitled 1",
-    "Untitled",
     "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
@@ -366,12 +368,9 @@
     "Pasted image 20241227192340.png",
     "7-Meetings/2024-12-07 evc workflow.md",
     "8-DailyTasks/2024-12-02.md",
-    "8-DailyTasks/2024-12-03.md",
     "roadmaps_pdf",
     "1-RoughNotes/javascript",
     "1-RoughNotes/ai-agentic-krish-naik",
-    "1-RoughNotes/java",
-    "Untitled 2",
     "Pasted image 20241227130300.png"
   ]
 }
