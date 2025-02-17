@@ -9,7 +9,7 @@ path: "1-RoughNotes/2025-02-11"
 
 # Array
 
-
+2
 
 ## Thoughts
 - [ ] 
