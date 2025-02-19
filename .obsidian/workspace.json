@@ -171,9 +171,21 @@
               "icon": "lucide-file",
               "title": "golang-baiscs-2025-02-11-RoughNote"
             }
+          },
+          {
+            "id": "fd6a82ae697bf882",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -327,11 +339,10 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9a29c9d78ce4167b",
+  "active": "fd6a82ae697bf882",
   "lastOpenFiles": [
     "1-RoughNotes/graph-ql/graph-ql-2025-02-15-RoughNote.md",
     "1-RoughNotes/Untitled",
