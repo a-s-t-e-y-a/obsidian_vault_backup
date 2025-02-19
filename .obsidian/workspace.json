@@ -171,21 +171,9 @@
               "icon": "lucide-file",
               "title": "golang-baiscs-2025-02-11-RoughNote"
             }
-          },
-          {
-            "id": "fd6a82ae697bf882",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -339,27 +327,28 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd6a82ae697bf882",
+  "active": "43e8d3b2b9040f7e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
+    "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
+    "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
     "1-RoughNotes/graph-ql/graph-ql-2025-02-15-RoughNote.md",
     "1-RoughNotes/Untitled",
     "Untitled",
     "1-RoughNotes/graph-ql",
-    "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
     "Excalidraw/Drawing 2025-02-11 16.25.04.excalidraw.md",
     "Pasted image 20250211133059.png",
-    "1-RoughNotes/go-lang/golang-baiscs-2025-02-11-RoughNote.md",
     "1-RoughNotes/go-lang",
     "Untitled 1",
     "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
     "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "Excalidraw/Drawing 2025-02-08 02.21.40.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 12.26.32.excalidraw.md",
     "8-DailyTasks/2025-02-01.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
