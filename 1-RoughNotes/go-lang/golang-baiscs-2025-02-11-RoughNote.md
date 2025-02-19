@@ -85,10 +85,3 @@ go mod init <module-name>  # Initialize a new module.
 go mod tidy                # Download and sync dependencies.
 go get <package>           # Add a new dependency.
 go list -m all             # List all dependencies.
-
-# Array
-
-2
-
-## Thoughts
-- [ ] 
