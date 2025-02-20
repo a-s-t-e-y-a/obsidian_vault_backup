@@ -80,8 +80,11 @@ go put semicolon automatically so if you start curly braces from the second line
 ## **Quick Commands Cheat Sheet**
 
 ### **Go Modules**
-```bash
+```
 go mod init <module-name>  # Initialize a new module.
 go mod tidy                # Download and sync dependencies.
 go get <package>           # Add a new dependency.
 go list -m all             # List all dependencies.
+
+```
+------
