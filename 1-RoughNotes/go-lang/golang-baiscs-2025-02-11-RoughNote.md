@@ -8,7 +8,8 @@ path: "1-RoughNotes/2025-02-11"
 - [ ] all exported member function from the file always be started from capital letter like ` Print in fmt.Println('')`
 - [ ] you can run go by two ways one by `creating executable ` and another one is using `go run command `
 - [ ] you can't leave go program by importing package and leaving it unused
-- [ ] ![[Pasted image 20250220001330.png]]![[Pasted image 20250220001155.png]]
+- [ ] ![[Pasted image 20250220001330.png]]![[/Pasted image 20250220001155.png]]
+- [ ] ![[(https://github.com/a-s-t-e-y-a/obsidian_vault_backup/blob/main/Pasted%20image%2020250220001155.png)]]
 go put semicolon automatically so if you start curly braces from the second line then it led to error because it puts semicolon automatically
 
 # Dependency Management: Go vs pnpm
@@ -85,6 +86,20 @@ go mod init <module-name>  # Initialize a new module.
 go mod tidy                # Download and sync dependencies.
 go get <package>           # Add a new dependency.
 go list -m all             # List all dependencies.
-
 ```
+
+# How go prints in output screen
+
+| **Function**       | **Description**                                                                 | **Example**                                                                 | **Output**         |
+|--------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------|
+| `fmt.Println()`    | Prints arguments followed by a newline.                                         | `fmt.Println("Hello", "World")`                                             | `Hello World`      |
+| `fmt.Print()`      | Prints arguments without adding a newline.                                      | `fmt.Print("Hello", "World")`                                               | `HelloWorld`       |
+| `fmt.Printf()`     | Prints formatted output with format specifiers.                                 | `fmt.Printf("%s %s\n", "Hello", "World")`                                   | `Hello World`      |
+| `fmt.Sprintln()`   | Returns a string with arguments and a newline.                                  | `result := fmt.Sprintln("Hello", "World")`                                  | `Hello World`      |
+| `fmt.Sprint()`     | Returns a string with arguments without a newline.                              | `result := fmt.Sprint("Hello", "World")`                                    | `HelloWorld`       |
+| `fmt.Sprintf()`    | Returns a formatted string with format specifiers.                              | `result := fmt.Sprintf("%s %s", "Hello", "World")`                          | `Hello World`      |
+| `fmt.Fprintln()`   | Writes arguments to an `io.Writer` followed by a newline.                       | `fmt.Fprintln(os.Stdout, "Hello", "World")`                                 | `Hello World`      |
+| `fmt.Fprint()`     | Writes arguments to an `io.Writer` without adding a newline.                    | `fmt.Fprint(os.Stdout, "Hello", "World")`                                   | `HelloWorld`       |
+| `fmt.Fprintf()`    | Writes formatted output to an `io.Writer`.                                      | `fmt.Fprintf(os.Stdout, "%s %s\n", "Hello", "World")`                       | `Hello World`      |
+
 ------
