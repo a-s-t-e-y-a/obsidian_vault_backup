@@ -91,7 +91,7 @@ go list -m all             # List all dependencies.
 
 | **Function**       | **Description**                                                                 | **Example**                                                                 | **Output**         |
 |--------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------|
-| `fmt.Println()`    | Prints arguments followed by a newline.                                         | `fmt.Println("Hello", "World")`                                             | `Hello World`      |
+| `fmt.Println()`    | Prints arguments followed by a newline and add spaces between words                                        | `fmt.Println("Hello", "World")`                                             | `Hello World`      |
 | `fmt.Print()`      | Prints arguments without adding a newline.                                      | `fmt.Print("Hello", "World")`                                               | `HelloWorld`       |
 | `fmt.Printf()`     | Prints formatted output with format specifiers.                                 | `fmt.Printf("%s %s\n", "Hello", "World")`                                   | `Hello World`      |
 | `fmt.Sprintln()`   | Returns a string with arguments and a newline.                                  | `result := fmt.Sprintln("Hello", "World")`                                  | `Hello World`      |
