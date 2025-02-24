@@ -192,7 +192,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -333,10 +333,10 @@
   },
   "active": "43e8d3b2b9040f7e",
   "lastOpenFiles": [
+    "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
+    "1-RoughNotes/go-lang/3.golang.md",
     "1-RoughNotes/go-lang/1.golang.md",
     "1-RoughNotes/go-lang/2.golang.md",
-    "1-RoughNotes/go-lang/3.golang.md",
-    "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
     "Pasted image 20250220001330.png",
     "Pasted image 20250220001155.png",
     "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
