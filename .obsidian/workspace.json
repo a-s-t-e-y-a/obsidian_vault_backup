@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/go-lang/6 . golang unsafe package.md",
+                "file": "1-RoughNotes/go-lang/7. Panic and recover.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6 . golang unsafe package"
+              "title": "7. Panic and recover"
             }
           },
           {
@@ -333,8 +333,9 @@
   },
   "active": "43e8d3b2b9040f7e",
   "lastOpenFiles": [
-    "1-RoughNotes/go-lang/5. garbage collector { go }.md",
     "1-RoughNotes/go-lang/6 . golang unsafe package.md",
+    "1-RoughNotes/go-lang/7. Panic and recover.md",
+    "1-RoughNotes/go-lang/5. garbage collector { go }.md",
     "1-RoughNotes/go-lang/2.golang.md",
     "Untitled 1",
     "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
@@ -367,7 +368,6 @@
     "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
     "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
     "6-FullNotes/classes and object in java-2024-12-05-FullNote.md",
-    "8-DailyTasks/2025-01-09.md",
     "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227192340.png",
