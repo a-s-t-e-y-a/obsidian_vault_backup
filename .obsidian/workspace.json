@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-DailyTasks/2025-02-26.md",
+                "file": "1-RoughNotes/go-lang/1.golang.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-26"
+              "title": "1.golang"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "go.s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +226,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -333,8 +334,8 @@
   },
   "active": "43e8d3b2b9040f7e",
   "lastOpenFiles": [
-    "2-Task-for-subtask/go project setup+2025-02-26.md",
     "8-DailyTasks/2025-02-26.md",
+    "2-Task-for-subtask/go project setup+2025-02-26.md",
     "1-RoughNotes/go-lang/9. Go env notes.md",
     "1-RoughNotes/go-lang/8. unix debugging utilities.md",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
