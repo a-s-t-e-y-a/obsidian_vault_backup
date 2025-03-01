@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "go.s",
+                "query": "fmt.printf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -328,11 +328,18 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "43e8d3b2b9040f7e",
   "lastOpenFiles": [
+    "1-RoughNotes/go-lang/3.golang.md",
+    "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
+    "1-RoughNotes/go-lang/2.golang.md",
+    "1-RoughNotes/go-lang/1.golang.md",
+    "1-RoughNotes/css/flexbox.md",
+    "1-RoughNotes/css",
     "8-DailyTasks/2025-02-26.md",
     "2-Task-for-subtask/go project setup+2025-02-26.md",
     "1-RoughNotes/go-lang/9. Go env notes.md",
@@ -340,11 +347,7 @@
     "1-RoughNotes/go-lang/7. Panic and recover.md",
     "1-RoughNotes/go-lang/6 . golang unsafe package.md",
     "1-RoughNotes/go-lang/5. garbage collector { go }.md",
-    "1-RoughNotes/go-lang/2.golang.md",
     "Untitled 1",
-    "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
-    "1-RoughNotes/go-lang/3.golang.md",
-    "1-RoughNotes/go-lang/1.golang.md",
     "Pasted image 20250220001330.png",
     "Pasted image 20250220001155.png",
     "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
@@ -366,14 +369,12 @@
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
     "5-Templates/task-for-a particular-subtask-project.md",
     "5-Templates/daily-task-template.md",
-    "5-Templates/full-note-template.md",
     "2-Task-for-subtask",
     "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "Pasted image 20241227130440.png",
     "Pasted image 20241227192340.png",
     "roadmaps_pdf",
     "1-RoughNotes/javascript",
-    "1-RoughNotes/ai-agentic-krish-naik",
     "Pasted image 20241227130300.png"
   ]
 }
