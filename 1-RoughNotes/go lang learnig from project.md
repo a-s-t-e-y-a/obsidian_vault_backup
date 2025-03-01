@@ -1,0 +1,2 @@
+- [ ] when giving port in net use :  before port number 
+- [ ] viper can also be used for the .env package it is most power full i get till date

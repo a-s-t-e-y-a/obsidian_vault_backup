@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/go-lang/1.golang.md",
+                "file": "1-RoughNotes/go-lang/8. unix debugging utilities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.golang"
+              "title": "8. unix debugging utilities"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fmt.printf",
+                "query": "strace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,8 +226,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -332,12 +331,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43e8d3b2b9040f7e",
+  "active": "59f573c29fb70c23",
   "lastOpenFiles": [
+    "1-RoughNotes/go lang learnig from project.md",
+    "1-RoughNotes/go-lang/1.golang.md",
+    "Untitled",
     "1-RoughNotes/go-lang/3.golang.md",
     "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
     "1-RoughNotes/go-lang/2.golang.md",
-    "1-RoughNotes/go-lang/1.golang.md",
     "1-RoughNotes/css/flexbox.md",
     "1-RoughNotes/css",
     "8-DailyTasks/2025-02-26.md",
@@ -355,7 +356,6 @@
     "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
     "1-RoughNotes/graph-ql/graph-ql-2025-02-15-RoughNote.md",
     "1-RoughNotes/Untitled",
-    "Untitled",
     "1-RoughNotes/graph-ql",
     "Excalidraw/Drawing 2025-02-11 16.25.04.excalidraw.md",
     "Pasted image 20250211133059.png",
@@ -368,7 +368,6 @@
     "8-DailyTasks/2025-02-01.md",
     "2-Task-for-subtask/tradiejam-employee-api-task-to-remember+2025-01-28.md",
     "5-Templates/task-for-a particular-subtask-project.md",
-    "5-Templates/daily-task-template.md",
     "2-Task-for-subtask",
     "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "Pasted image 20241227130440.png",
