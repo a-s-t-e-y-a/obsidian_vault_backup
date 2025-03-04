@@ -116,6 +116,10 @@ Flex wrap sirf row wise kaam krta hai woh column wise kaam nhi krta hai
 ✅ **Ek flex item ka default width/height decide karta hai**.  
 Agar `flex-basis: 200px;` diya ho, toh item **by default 200px ka hoga**, phir `flex-grow` ya `flex-shrink` adjust karega.
 
+👉 Ye flex item ki **initial width** ko 200px set karega (agar `flex-direction: row` hai).  
+👉 Agar `flex-direction: column` hai, to ye **height** set karega.
+
+ye item pe lagta hai naa ki parent div mein 
 ```css
 .item {
   flex-basis: 200px;
