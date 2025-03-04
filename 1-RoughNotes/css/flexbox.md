@@ -142,5 +142,15 @@ ye item pe lagta hai naa ki parent div mein
 | `order`           | Custom sequence               |
 
 ---
+## justify-center
+
+![[Pasted image 20250304114904.png]]
+
+## align - items
+
+![[Pasted image 20250304115027.png]]
+
+## align content
+![[Pasted image 20250304115226.png]]
 
 🚀 **Ye complete guide hai, agar aur koi doubt hai toh batao!** 😃
