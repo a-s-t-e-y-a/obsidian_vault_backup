@@ -64,6 +64,7 @@ Flexbox ek **CSS layout model** hai jo **container ke andar items ka size aur po
 ## **3️⃣ Flex Wrap – Items Multiple Rows Me Kaise Aayenge?**
 ✅ By default, Flexbox ek hi row me sab items ko rakhne ki koshish karta hai, **chahe space kam ho**.  
 Agar items ko multiple rows me lana ho, toh `flex-wrap` use karte hain.
+Flex wrap sirf row wise kaam krta hai woh column wise kaam nhi krta hai
 
 ```css
 .container {
@@ -72,11 +73,11 @@ Agar items ko multiple rows me lana ho, toh `flex-wrap` use karte hain.
 }
 ```
 
-| Property | Meaning |
-|----------|---------|
-| `nowrap` (default) | Sab items ek hi line me rahenge |
-| `wrap` | Space kam hone par items next line me chale jayenge |
-| `wrap-reverse` | Items next line me, **reverse order me** aayenge |
+| Property           | Meaning                                             |
+| ------------------ | --------------------------------------------------- |
+| `nowrap` (default) | Sab items ek hi line me rahenge                     |
+| `wrap`             | Space kam hone par items next line me chale jayenge |
+| `wrap-reverse`     | Items next line me, **reverse order me** aayenge    |
 
 ---
 
