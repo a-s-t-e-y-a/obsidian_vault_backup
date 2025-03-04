@@ -87,7 +87,7 @@ Flex wrap sirf row wise kaam krta hai woh column wise kaam nhi krta hai
 ### **🛠 `flex-grow` → Available Space Ko Kaise Distribute Kare**
 - **Default: `0` (grow nahi karega)**
 - **Bada value = Jyada grow karega**  
-
+isme bache hue parts ko divide krta hai ratio decide hota hai flex-grow parts se
 ```css
 .item1 { flex-grow: 1; } /* 1 part lega */
 .item2 { flex-grow: 2; } /* 2 parts lega */
@@ -129,17 +129,17 @@ ye item pe lagta hai naa ki parent div mein
 ---
 
 ## **📏 Summary – Quick Cheatsheet**
-| Property | Use |
-|----------|----------|
-| `flex-direction` | Main Axis decide karta hai |
-| `flex-wrap` | Items ko wrap karne ke liye |
-| `flex-grow` | Items kaise grow karenge |
-| `flex-shrink` | Items kaise shrink honge |
-| `flex-basis` | Default size decide karta hai |
-| `justify-content` | Main axis alignment |
-| `align-items` | Cross axis alignment |
-| `align-content` | Multiple rows ka alignment |
-| `order` | Custom sequence |
+| Property          | Use                           |
+| ----------------- | ----------------------------- |
+| `flex-direction`  | Main Axis decide karta hai    |
+| `flex-wrap`       | Items ko wrap karne ke liye   |
+| `flex-grow`       | Items kaise grow karenge      |
+| `flex-shrink`     | Items kaise shrink honge      |
+| `flex-basis`      | Default size decide karta hai |
+| `justify-content` | Main axis alignment           |
+| `align-items`     | Cross axis alignment          |
+| `align-content`   | Multiple rows ka alignment    |
+| `order`           | Custom sequence               |
 
 ---
 
