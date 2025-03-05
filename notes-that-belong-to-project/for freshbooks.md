@@ -1,0 +1,2 @@
+- user can create the project --- of two types hourly based and flat rate
+- 
