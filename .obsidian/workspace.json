@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "99c57fd931fec26f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "65ec105f4d54bf5b",
             "type": "leaf",
             "state": {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,10 +238,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99c57fd931fec26f",
+  "active": "43a0a83634ca1ba9",
   "lastOpenFiles": [
-    "8-DailyTasks/2025-03-05.md",
     "conflict-files-obsidian-git.md",
+    "8-DailyTasks/2025-03-05.md",
     "notes-that-belong-to-project/for freshbooks.md",
     "notes-that-belong-to-project",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
