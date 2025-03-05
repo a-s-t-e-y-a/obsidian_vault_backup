@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-DailyTasks/2025-03-05.md",
+                "file": "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-05"
+              "title": "bigcapital-frontend-task-2025-03-05"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "43a0a83634ca1ba9",
   "lastOpenFiles": [
-    "notes-that-belong-to-project/for freshbooks.md",
     "8-DailyTasks/2025-03-05.md",
+    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
+    "notes-that-belong-to-project/for freshbooks.md",
     "conflict-files-obsidian-git.md",
     "notes-that-belong-to-project",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
