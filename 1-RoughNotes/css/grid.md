@@ -64,6 +64,7 @@ Cell 3	Gap	Cell 4
 .container {
   display: grid;
 }
+```
 
 Summary:
 Grid Lines: Grid banane wali lines.

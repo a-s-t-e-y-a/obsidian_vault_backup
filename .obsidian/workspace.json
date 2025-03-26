@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/Authorization vs Authentication.md",
+                "file": "1-RoughNotes/css/box-model-css-2025-03-26-RoughNote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Authorization vs Authentication"
+              "title": "box-model-css-2025-03-26-RoughNote"
             }
           },
           {
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "right": {
     "id": "fa1e3632a13b74a4",
@@ -262,17 +262,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07d03b5c1146be5e",
+  "active": "59f573c29fb70c23",
   "lastOpenFiles": [
-    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
+    "1-RoughNotes/css/grid.md",
+    "1-RoughNotes/css/box-model-css-2025-03-26-RoughNote.md",
+    "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md",
+    "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md",
+    "1-RoughNotes/go-lang/9. Go env notes.md",
+    "1-RoughNotes/go-lang/8. unix debugging utilities.md",
+    "1-RoughNotes/go-lang/7. Panic and recover.md",
+    "1-RoughNotes/go-lang/6 . golang unsafe package.md",
+    "1-RoughNotes/go-lang/5. garbage collector { go }.md",
     "1-RoughNotes/Authorization vs Authentication.md",
+    "1-RoughNotes/javascript/Object references and copying.md",
+    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
     "8-DailyTasks/2025-03-05.md",
     "notes-that-belong-to-project/for freshbooks.md",
     "conflict-files-obsidian-git.md",
     "notes-that-belong-to-project",
-    "1-RoughNotes/go-lang/7. Panic and recover.md",
-    "1-RoughNotes/go-lang/8. unix debugging utilities.md",
-    "1-RoughNotes/go-lang/9. Go env notes.md",
     "1-RoughNotes/css/flexbox.md",
     "Pasted image 20250304115226.png",
     "Pasted image 20250304115027.png",
@@ -287,21 +294,14 @@
     "1-RoughNotes/css",
     "8-DailyTasks/2025-02-26.md",
     "2-Task-for-subtask/go project setup+2025-02-26.md",
-    "1-RoughNotes/go-lang/6 . golang unsafe package.md",
-    "1-RoughNotes/go-lang/5. garbage collector { go }.md",
     "Untitled 1",
     "Pasted image 20250220001330.png",
     "Pasted image 20250220001155.png",
     "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
-    "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md",
     "1-RoughNotes/Untitled",
     "1-RoughNotes/graph-ql",
-    "Excalidraw/Drawing 2025-02-11 16.25.04.excalidraw.md",
     "Pasted image 20250211133059.png",
     "1-RoughNotes/go-lang",
-    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md",
-    "1-RoughNotes/java/java basics classes and object starting-2024-12-05-RoughNote.md",
     "2-Task-for-subtask",
     "roadmaps_pdf/Kafka_Course_Structure_Full.pdf",
     "Pasted image 20241227130440.png",
