@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
+                "file": "1-RoughNotes/DSA-questions/SetMatrixZero-2025-03-27-RoughNote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bigcapital-frontend-task-2025-03-05"
-            }
-          },
-          {
-            "id": "07d03b5c1146be5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/go-lang/2.golang.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.golang"
+              "title": "SetMatrixZero-2025-03-27-RoughNote"
             }
           },
           {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,8 +238,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07d03b5c1146be5e",
+  "active": "59f573c29fb70c23",
   "lastOpenFiles": [
+    "6-FullNotes/Set Matrix Zero-2025-03-27-FullNote.md",
+    "1-RoughNotes/DSA-questions/SetMatrixZero-2025-03-27-RoughNote.md",
+    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
+    "1-RoughNotes/go-lang/2.golang.md",
+    "1-RoughNotes/DSA-questions",
     "1-RoughNotes/go-lang/1.golang.md",
     "1-RoughNotes/css/box-model-css.md",
     "1-RoughNotes/css/flexbox.md",
@@ -277,7 +258,6 @@
     "1-RoughNotes/go-lang/5. garbage collector { go }.md",
     "1-RoughNotes/Authorization vs Authentication.md",
     "1-RoughNotes/javascript/Object references and copying.md",
-    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
     "8-DailyTasks/2025-03-05.md",
     "notes-that-belong-to-project/for freshbooks.md",
     "conflict-files-obsidian-git.md",
@@ -290,15 +270,11 @@
     "1-RoughNotes/go lang learnig from project.md",
     "1-RoughNotes/go-lang/3.golang.md",
     "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
-    "1-RoughNotes/go-lang/2.golang.md",
     "1-RoughNotes/css",
     "8-DailyTasks/2025-02-26.md",
-    "2-Task-for-subtask/go project setup+2025-02-26.md",
     "Untitled 1",
     "Pasted image 20250220001330.png",
     "Pasted image 20250220001155.png",
-    "6-FullNotes/so you think you know git - fosdem 2024 gitbutler video-2025-02-11-FullNote.md",
-    "1-RoughNotes/Untitled",
     "1-RoughNotes/graph-ql",
     "Pasted image 20250211133059.png",
     "1-RoughNotes/go-lang",
