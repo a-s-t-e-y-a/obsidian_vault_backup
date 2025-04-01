@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Task-for-subtask/bookeasy+2025-03-31.md",
+                "file": "1-RoughNotes/Learning while making my own server/1. Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bookeasy+2025-03-31"
+              "title": "1. Introduction"
             }
           },
           {
@@ -240,8 +240,11 @@
   },
   "active": "43a0a83634ca1ba9",
   "lastOpenFiles": [
-    "5-Templates/task-for-a particular-subtask-project.md",
+    "1-RoughNotes/Learning while making my own server/2 .ubuntu as a server-2025-04-01-RoughNote.md",
+    "1-RoughNotes/Learning while making my own server/1. Introduction.md",
     "2-Task-for-subtask/bookeasy+2025-03-31.md",
+    "1-RoughNotes/Learning while making my own server",
+    "5-Templates/task-for-a particular-subtask-project.md",
     "1-RoughNotes/DSA-questions/SetMatrixZero-2025-03-27-RoughNote.md",
     "6-FullNotes/Set Matrix Zero-2025-03-27-FullNote.md",
     "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
@@ -269,8 +272,6 @@
     "Pasted image 20250304114904.png",
     "1-RoughNotes/java/java by mysirg video 3 my1-2024-12-27-RoughNote.md",
     "1-RoughNotes/graph-ql/graph-ql-2025-02-15-RoughNote.md",
-    "1-RoughNotes/go lang learnig from project.md",
-    "1-RoughNotes/go-lang/3.golang.md",
     "1-RoughNotes/css",
     "Untitled 1",
     "Pasted image 20250220001330.png",
@@ -283,7 +284,6 @@
     "Pasted image 20241227130440.png",
     "Pasted image 20241227192340.png",
     "roadmaps_pdf",
-    "1-RoughNotes/javascript",
     "Pasted image 20241227130300.png"
   ]
 }
