@@ -1,5 +1,8 @@
 k8s is used to orchestrate the containerized applications
 it is the project to cncf
+k8s act like the captain of ship which have so many container in them
+
+job of k8s to manage the container that they should run and healthy their scalability
 
 as far as my knowledge is k8s ka use sirf containerized applications ko he manage krne ke liye hota hai 
 
@@ -7,7 +10,10 @@ as far as my knowledge is k8s ka use sirf containerized applications ko he manag
 # first what is a container
 
 jail is a container but container is not a jail
-when you package an application with all its dependency or the requirnments needed by that application so it is contained and immutable 
+when you package an application with all its dependency or the requirements needed by that application so it is contained and immutable
+
+so mean we take the stack of the project and its run time requirements and bundle them together and handover to the someone so they run that easily
+
 # k8s ka use kaise hota hai 
 
 1. **Har tarah ke workload ke liye open**  
