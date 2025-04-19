@@ -149,6 +149,78 @@
             }
           },
           {
+            "id": "74022d8e6b37e667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-RoughNotes/go-lang/9. Go env notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "9. Go env notes"
+            }
+          },
+          {
+            "id": "6aa79b1e4cb22087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-RoughNotes/go-lang/2.golang.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2.golang"
+            }
+          },
+          {
+            "id": "cffccdf8e3b24233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "9a29c9d78ce4167b",
             "type": "leaf",
             "state": {
@@ -173,7 +245,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -226,8 +298,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -332,29 +403,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43e8d3b2b9040f7e",
+  "active": "cffccdf8e3b24233",
   "lastOpenFiles": [
+    "1-RoughNotes/go-lang/2.golang.md",
+    "conflict-files-obsidian-git.md",
+    "1-RoughNotes/go-lang/8. unix debugging utilities.md",
+    "1-RoughNotes/go-lang/9. Go env notes.md",
+    "1-RoughNotes/go-lang/1.golang.md",
+    "1-RoughNotes/go-lang/6 . golang unsafe package.md",
     "notes-that-belong-to-project/for freshbooks.md",
     "notes-that-belong-to-project",
-    "conflict-files-obsidian-git.md",
     "8-DailyTasks/2025-03-05.md",
-    "1-RoughNotes/go-lang/9. Go env notes.md",
     "1-RoughNotes/go lang learnig from project.md",
-    "1-RoughNotes/go-lang/8. unix debugging utilities.md",
     "Pasted image 20250304115226.png",
     "Pasted image 20250304115027.png",
     "Pasted image 20250304114904.png",
-    "1-RoughNotes/go-lang/1.golang.md",
     "Untitled",
     "1-RoughNotes/go-lang/3.golang.md",
     "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
-    "1-RoughNotes/go-lang/2.golang.md",
     "1-RoughNotes/css/flexbox.md",
     "1-RoughNotes/css",
     "8-DailyTasks/2025-02-26.md",
     "2-Task-for-subtask/go project setup+2025-02-26.md",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
-    "1-RoughNotes/go-lang/6 . golang unsafe package.md",
     "1-RoughNotes/go-lang/5. garbage collector { go }.md",
     "Untitled 1",
     "Pasted image 20250220001330.png",
