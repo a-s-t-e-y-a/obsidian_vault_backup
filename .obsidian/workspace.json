@@ -179,7 +179,8 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "4041fda731b45204",
