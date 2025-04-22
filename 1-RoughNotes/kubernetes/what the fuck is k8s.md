@@ -50,3 +50,20 @@ kubectl --namespace <USERNAME> krishna get pods
 kubectl -n <USERNAME> apply -f <YAML FILE LINK> 
 kubectl port-forward -n <USERNAME> <POD NAME> <FORWARD PORT >: <CONTAINER POD>
 ```
+
+
+### rolling updates and rolling back
+
+**Rolling Updates:**
+
+- **Definition:** Rolling updates ka matlab hai software ya system ko ek baar mein poora nahi update karna, balki thoda-thoda karke update karna.
+- **Purpose:** Is tareeke se downtime kam hota hai aur system fail hone ka risk bhi kam hota hai. Agar koi problem aati hai, toh sirf ek chhoti jagah affect hoti hai, poora system nahi.
+- **Example:** Socho aapke paas ek website hai. Bajaye poore website ko ek saath update karne ke, aap ek-ek page ko update karte ho. Isse agar koi problem aati hai, toh sirf uss ek page mein problem hoti hai, baaki website theek se chalta rahata hai.
+
+**Rolling Back:**
+
+- **Definition:** Rolling back ka matlab hai agar naya update problem karta hai, toh aap wapas pehle wale version par jaate ho jo theek tha.
+- **Purpose:** Yeh backup plan ki tarah hota hai. Agar naya update theek se kaam nahi karta, toh aap jaldi se pehle wale version par wapas aa jaate ho.
+- **Example:** Agar aapne apne phone ka software update kiya aur usme problem aane lagi, toh aap pehle wale version par wapas jaake problem solve kar sakte ho.
+
+## 
