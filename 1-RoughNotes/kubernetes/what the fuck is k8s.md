@@ -66,4 +66,7 @@ kubectl port-forward -n <USERNAME> <POD NAME> <FORWARD PORT >: <CONTAINER POD>
 - **Purpose:** Yeh backup plan ki tarah hota hai. Agar naya update theek se kaam nahi karta, toh aap jaldi se pehle wale version par wapas aa jaate ho.
 - **Example:** Agar aapne apne phone ka software update kiya aur usme problem aane lagi, toh aap pehle wale version par wapas jaake problem solve kar sakte ho.
 
-## 
+## Daemon sets
+
+Kubernetes mein **DaemonSets** ek aisi Kubernetes object hai jo yeh ensure karti hai ki ek specific pod har node par ya kuch selected nodes par run hota rahe. Yeh typically background services ya agents deploy karne ke liye use hoti hai jo har node par hona zaroori hota hai, jaise monitoring agents ya log collectors[1](https://medium.com/@subhampradhan966/daemonsets-in-kubernetes-d21d439fd964).
+
