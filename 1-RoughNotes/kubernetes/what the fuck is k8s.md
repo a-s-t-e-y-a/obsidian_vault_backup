@@ -45,5 +45,8 @@ Is tarah, Kubernetes ek monolithic orchestrator nahi balki ek set of composable,
 
 ``` 
 kubectl get ns === to get the namespace
-kubectl --namespace create <USERNAME> ==== to cre
+kubectl --namespace create <USERNAME> ==== to create the username
+kubectl --namespace <USERNAME> krishna get pods
+kubectl -n <USERNAME> apply -f <YAML FILE LINK> 
+kubectl port-forward -n <USERNAME> <POD NAME> <FORWARD PORT >: <CONTAINER POD>
 ```
