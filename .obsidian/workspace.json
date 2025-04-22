@@ -1,203 +1,14 @@
 {
   "main": {
-    "id": "2033c68298a8392e",
+    "id": "5ff012f571ca8209",
     "type": "split",
     "children": [
       {
-        "id": "902c1101135038a1",
+        "id": "7012f8e55020c9fb",
         "type": "tabs",
         "children": [
           {
-            "id": "231a7588f9c8222e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "krish-naik-ai-agentic-2024-12-30-RoughNote"
-            }
-          },
-          {
-            "id": "0961d264353dc5ab",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-30 22.13.27.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-30 22.13.27.excalidraw"
-            }
-          },
-          {
-            "id": "9fe1b8cf43b1f035",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-30 22.46.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-30 22.46.15.excalidraw"
-            }
-          },
-          {
-            "id": "6d57fe774de91d67",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "roadmaps_pdf/Kafka_Course_Structure_Full.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Kafka_Course_Structure_Full"
-            }
-          },
-          {
-            "id": "aa5232bc13f597c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-DailyTasks/2025-01-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-01-09"
-            }
-          },
-          {
-            "id": "b19ee11dd31ef394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-DailyTasks/2025-02-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-01"
-            }
-          },
-          {
-            "id": "9cf9cb68f304d775",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-01 12.17.00.excalidraw"
-            }
-          },
-          {
-            "id": "124bc9a5f0a0bbd6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-01 12.17.00.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-01 12.17.00.excalidraw"
-            }
-          },
-          {
-            "id": "6bac39aa3f05afa0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-05 11.53.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-05 11.53.18.excalidraw"
-            }
-          },
-          {
-            "id": "43e8d3b2b9040f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/go-lang/6 . golang unsafe package.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "6 . golang unsafe package"
-            }
-          },
-          {
-            "id": "74022d8e6b37e667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/go-lang/9. Go env notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "9. Go env notes"
-            }
-          },
-          {
-            "id": "6aa79b1e4cb22087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/go-lang/2.golang.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.golang"
-            }
-          },
-          {
-            "id": "cffccdf8e3b24233",
+            "id": "4041fda731b45204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -219,47 +30,22 @@
               "icon": "lucide-file",
               "title": "what the fuck is k8s"
             }
-          },
-          {
-            "id": "9a29c9d78ce4167b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/go-lang/1.golang.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.golang"
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "82021f7119f0075a",
+    "id": "6dc5fdc2b2be0684",
     "type": "split",
     "children": [
       {
-        "id": "b0c8b63a13a1c618",
+        "id": "6ff291375746d317",
         "type": "tabs",
         "children": [
           {
-            "id": "59f573c29fb70c23",
+            "id": "646d6dcdd26e88f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -272,12 +58,12 @@
             }
           },
           {
-            "id": "bf4417dfd3a30b31",
+            "id": "666c3b54ddce0e5f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "unsafe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,7 +75,7 @@
             }
           },
           {
-            "id": "6e5fe152787e8ce7",
+            "id": "16f291957de5f7d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -302,23 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 300
   },
   "right": {
-    "id": "fa1e3632a13b74a4",
+    "id": "d720f2236a5bbda2",
     "type": "split",
     "children": [
       {
-        "id": "f6ca59648ec9e84e",
+        "id": "9bdb315891ad9313",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3eb47404b20bcd",
+            "id": "34259bc53f62c49a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Full Notes/Untitled.md",
+                "file": "1-RoughNotes/go-lang/7. Panic and recover.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,60 +114,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 7. Panic and recover"
             }
           },
           {
-            "id": "bbe797c5c911e92a",
+            "id": "517e191175bd5a2a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Templates/Full note.md",
+                "file": "1-RoughNotes/go-lang/7. Panic and recover.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Full note"
+              "title": "Outgoing links from 7. Panic and recover"
             }
           },
           {
-            "id": "8a824146bbdd2bb7",
+            "id": "7550cab97c91aa09",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "15bbd135604e8433",
+            "id": "fef431b4df160e3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-DailyTasks/2024-12-03.md"
+                "file": "1-RoughNotes/go-lang/7. Panic and recover.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-03"
-            }
-          },
-          {
-            "id": "d37aac3bbcafbade",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of 7. Panic and recover"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -402,52 +182,22 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cffccdf8e3b24233",
+  "active": "4041fda731b45204",
   "lastOpenFiles": [
-    "1-RoughNotes/Authorization vs Authentication.md",
+    "1-RoughNotes/go-lang/7. Panic and recover.md",
     "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/kubernetes",
-    "Untitled",
-    "1-RoughNotes/go lang learnig from project.md",
-    "conflict-files-obsidian-git.md",
-    "6-FullNotes/Set Matrix Zero-2025-03-27-FullNote.md",
-    "2-Task-for-subtask/bookeasy+2025-03-31.md",
-    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
-    "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md",
-    "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md",
-    "1-RoughNotes/css/grid.md",
-    "1-RoughNotes/css/box-model-css.md",
-    "1-RoughNotes/Learning while making my own server/2 .ubuntu as a server-2025-04-01-RoughNote.md",
-    "1-RoughNotes/Learning while making my own server/1. Introduction.md",
-    "1-RoughNotes/Learning while making my own server",
-    "1-RoughNotes/DSA-questions/SetMatrixZero-2025-03-27-RoughNote.md",
-    "1-RoughNotes/DSA-questions",
-    "1-RoughNotes/go-lang/2.golang.md",
     "1-RoughNotes/go-lang/8. unix debugging utilities.md",
     "1-RoughNotes/go-lang/9. Go env notes.md",
-    "1-RoughNotes/go-lang/1.golang.md",
-    "1-RoughNotes/go-lang/6 . golang unsafe package.md",
-    "notes-that-belong-to-project/for freshbooks.md",
-    "notes-that-belong-to-project",
-    "8-DailyTasks/2025-03-05.md",
-    "Pasted image 20250304115226.png",
-    "Pasted image 20250304115027.png",
-    "Pasted image 20250304114904.png",
+    "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md",
+    "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md",
     "1-RoughNotes/go-lang/3.golang.md",
-    "1-RoughNotes/go-lang/4. golang-error-2025-02-21-RoughNote.md",
-    "1-RoughNotes/css/flexbox.md",
-    "1-RoughNotes/css",
-    "8-DailyTasks/2025-02-26.md",
-    "2-Task-for-subtask/go project setup+2025-02-26.md",
-    "Untitled 1",
-    "Pasted image 20250220001330.png",
-    "Pasted image 20250220001155.png",
-    "1-RoughNotes/graph-ql",
-    "Pasted image 20250211133059.png",
-    "1-RoughNotes/go-lang",
-    "2-Task-for-subtask",
-    "Pasted image 20241227130440.png",
-    "Pasted image 20241227192340.png",
-    "Pasted image 20241227130300.png"
+    "1-RoughNotes/go-lang/2.golang.md",
+    "1-RoughNotes/go-lang/1.golang.md",
+    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
+    "1-RoughNotes/go lang learnig from project.md",
+    "1-RoughNotes/Authorization vs Authentication.md",
+    "1-RoughNotes/javascript/Object references and copying.md",
+    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md"
   ]
 }
