@@ -6,6 +6,7 @@ k8s act like the captain of ship which have so many container in them
 job of k8s to manage the container that they should run and healthy their scalability
 
 as far as my knowledge is k8s ka use sirf containerized applications ko he manage krne ke liye hota hai 
+k8s work is simple to keep monitoring that k8s pod keep running and stay healthy
 
 
 # first what is a container
@@ -40,4 +41,9 @@ so mean we take the stack of the project and its run time requirements and bundl
 
 Is tarah, Kubernetes ek monolithic orchestrator nahi balki ek set of composable, self‑driving controllers hai jo desired‑state model pe kaam karte hain.
 
-# 
+# some basic command for k8s
+
+``` 
+kubectl get ns === to get the namespace
+kubectl --namespace create <USERNAME> ==== to cre
+```
