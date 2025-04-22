@@ -1,3 +1,4 @@
+
 k8s is used to orchestrate the containerized applications
 it is the project to cncf
 k8s act like the captain of ship which have so many container in them
@@ -13,7 +14,6 @@ jail is a container but container is not a jail
 when you package an application with all its dependency or the requirements needed by that application so it is contained and immutable
 
 so mean we take the stack of the project and its run time requirements and bundle them together and handover to the someone so they can run that easily
-
 # k8s ka use kaise hota hai 
 
 1. **Har tarah ke workload ke liye open**  
