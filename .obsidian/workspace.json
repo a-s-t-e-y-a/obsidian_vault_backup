@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "flexbox"
             }
+          },
+          {
+            "id": "5684999abe95b941",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +193,10 @@
       "smart-random-note:Open Random Note from Search": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4041fda731b45204",
+  "active": "5684999abe95b941",
   "lastOpenFiles": [
     "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
