@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
+                "file": "1-RoughNotes/kubernetes/what the fuck is k8s.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Notes to be searched and how to implement this"
+              "title": "what the fuck is k8s"
             }
           }
         ]
@@ -175,14 +175,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "4041fda731b45204",
   "lastOpenFiles": [
+    "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
     "Pasted image 20250501163701.png",
     "1-RoughNotes/css/flexbox.md",
-    "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
     "1-RoughNotes/new_open_source",
     "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
