@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/kubernetes/what the fuck is k8s.md",
+                "file": "1-RoughNotes/kubernetes/pods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "what the fuck is k8s"
+              "title": "pods"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "4041fda731b45204",
   "lastOpenFiles": [
+    "1-RoughNotes/kubernetes/what the fuck is k8s.md",
+    "1-RoughNotes/kubernetes/pods.md",
     "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
     "Pasted image 20250501163701.png",
     "1-RoughNotes/css/flexbox.md",
     "1-RoughNotes/new_open_source",
-    "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/go-lang/7. Panic and recover.md",
     "1-RoughNotes/kubernetes",
     "1-RoughNotes/go-lang/8. unix debugging utilities.md",
