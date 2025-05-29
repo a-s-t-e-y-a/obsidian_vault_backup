@@ -2,5 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "timer"
-  ]
+  ],
+  "theme": "obsidian"
 }

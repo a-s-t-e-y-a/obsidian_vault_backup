@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "6-Full Notes",
-  "vimMode": false
+  "vimMode": false,
+  "promptDelete": false
 }
