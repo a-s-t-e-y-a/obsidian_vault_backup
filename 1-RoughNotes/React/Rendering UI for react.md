@@ -68,5 +68,71 @@ const handleClick = () => {
  isme react phele waali state ko use krenga
 yaani state update hoga 2+3 = 5
 
+
+```
+
+const handleClick = () => {
+
+  setCount(1)
+
+  setCount((c) => c + 3)
+
+  setCount(7)
+
+  setCount((c) => c + 10)
+
+}
+```
+for example iska state output rhenga 7+10 = 17 
+
+
+
+#### react update component as well its child component also 
+
+```
+import * as React from "react"
+import Wave from "./Wave"
+
+function Greeting ({ name }) {
+  const [index, setIndex] = React.useState(0)
+
+  const greetings = ['Hello', "Hola", "Bonjour"]
+
+  const handleClick = () => {
+    const nextIndex = index === greetings.length - 1
+      ? 0
+      : index + 1
+    setIndex(nextIndex)
+  }
+
+  return (
+    <main>
+      <h1>{greetings[index]}, {name}</h1>
+      <button onClick={handleClick}>
+        Next Greeting
+      </button>
+      <Wave />
+    </main>
+  )
+}
+
+export default function App () {
+  return <Greeting name="Tyler" />
+}
+```
+ iss waale code mein agar Greeting component hoga then Wave component bhi update hoga
+
+lekin wave component ko update krne ka koi mtlb nhi hai 
+toh hum wave component ko React.memo(Wave)
+mein use kr skte hai 
+Wave componenet re render naa ho
+
+## React memo 
+
+react memo tab hee render krenga jab component ke actually mein props change honge
+
+## Strict mode 
+
+
 # components
 components are the classes or the functions that can be reused in the entire project anywhere anytime 
