@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flex box",
+                "query": "swc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "646d6dcdd26e88f9",
+  "active": "666c3b54ddce0e5f",
   "lastOpenFiles": [
     "1-RoughNotes/React/2 .Component life cycle method.md",
     "Pasted image 20250530174137.png",
