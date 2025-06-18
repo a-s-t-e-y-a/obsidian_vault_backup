@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/React/2 .Component life cycle method.md",
+                "file": "1-RoughNotes/React/1 .Rendering UI for react.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 .Component life cycle method"
+              "title": "1 .Rendering UI for react"
             }
           }
         ]
@@ -183,14 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4041fda731b45204",
+  "active": "646d6dcdd26e88f9",
   "lastOpenFiles": [
-    "1-RoughNotes/React/1 .Rendering UI for react.md",
+    "1-RoughNotes/ai",
+    "Untitled",
     "1-RoughNotes/React/2 .Component life cycle method.md",
+    "1-RoughNotes/React/1 .Rendering UI for react.md",
     "Pasted image 20250530174137.png",
     "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/React",
-    "Untitled",
     "1-RoughNotes/kubernetes/pods.md",
     "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
     "Pasted image 20250501163701.png",
