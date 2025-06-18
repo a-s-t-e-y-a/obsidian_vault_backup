@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "rough notes"
             }
+          },
+          {
+            "id": "3535c50fa4b761b1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-18 22.56.35.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +196,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4041fda731b45204",
+  "active": "3535c50fa4b761b1",
   "lastOpenFiles": [
-    "1-RoughNotes/React/1 .Rendering UI for react.md",
     "1-RoughNotes/ai/rough notes.md",
+    "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md",
+    "1-RoughNotes/React/1 .Rendering UI for react.md",
     "1-RoughNotes/ai",
     "Untitled",
     "1-RoughNotes/React/2 .Component life cycle method.md",
