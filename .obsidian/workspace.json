@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-06-18 22.56.35.excalidraw"
             }
+          },
+          {
+            "id": "29149648a834b555",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-18 23.27.43.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -196,10 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3535c50fa4b761b1",
+  "active": "29149648a834b555",
   "lastOpenFiles": [
-    "1-RoughNotes/ai/rough notes.md",
     "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
+    "1-RoughNotes/ai/rough notes.md",
     "1-RoughNotes/React/1 .Rendering UI for react.md",
     "1-RoughNotes/ai",
     "Untitled",
