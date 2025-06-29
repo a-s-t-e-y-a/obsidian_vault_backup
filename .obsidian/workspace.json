@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7012f8e55020c9fb",
+        "id": "bcb6c4847c0a6fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "4041fda731b45204",
+            "id": "a1c4bb4842261877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/ai/rough notes.md",
+                "file": "1-RoughNotes/ai/RAG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rough notes"
-            }
-          },
-          {
-            "id": "3535c50fa4b761b1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-18 22.56.35.excalidraw"
-            }
-          },
-          {
-            "id": "29149648a834b555",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-18 23.27.43.excalidraw"
+              "title": "RAG"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swc",
+                "query": "tag:#Ye",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -209,12 +184,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29149648a834b555",
+  "active": "666c3b54ddce0e5f",
   "lastOpenFiles": [
+    "1-RoughNotes/ai/rough notes.md",
+    "1-RoughNotes/ai/RAG.md",
+    "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
     "Pasted Image 20250619002945_804.png",
     "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
-    "1-RoughNotes/ai/rough notes.md",
     "1-RoughNotes/React/1 .Rendering UI for react.md",
     "1-RoughNotes/ai",
     "Untitled",
