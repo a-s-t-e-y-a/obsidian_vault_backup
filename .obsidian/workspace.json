@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-RoughNotes/go-lang/7. Panic and recover.md",
+                "file": "1-RoughNotes/ai/RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7. Panic and recover"
+              "title": "Backlinks for RAG"
             }
           },
           {
@@ -160,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline of 7. Panic and recover"
             }
+          },
+          {
+            "id": "3b6eb0721d4814d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,12 +191,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a1c4bb4842261877",
   "lastOpenFiles": [
+    "Assets/Pasted image 20250630151851.png",
+    "Assets",
     "Pasted image 20250630001035.png",
     "1-RoughNotes/ai/rough notes.md",
     "1-RoughNotes/ai/RAG.md",

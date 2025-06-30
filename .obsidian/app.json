@@ -2,5 +2,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "6-Full Notes",
   "vimMode": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Assets",
+  "useMarkdownLinks": true
 }
