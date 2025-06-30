@@ -22,3 +22,16 @@ Conventional or keyword search solutions in RAG produce limited results for know
 In contrast, semantic search technologies do all the work of knowledge base preparation so developers don't have to. They also generate semantically relevant passages and token words ordered by relevance to maximize the quality of the RAG payload.
 
 ![](../../Assets/Pasted%20image%2020250630151851.png)
+
+## Statistical and machine learned representation
+
+![](../../Assets/Pasted%20image%2020250630153534.png)
+
+in this embeddings used by the machine learning model and statistical used by search engines
+
+![](../../Assets/Pasted%20image%2020250630153625.png)
+this how the loading and sp
+## Numerical representation  for search
+
+![](../../Assets/Pasted%20image%2020250630152758.png)
+
