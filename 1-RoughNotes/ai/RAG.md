@@ -29,8 +29,12 @@ In contrast, semantic search technologies do all the work of knowledge base prep
 in this embeddings used by the machine learning model and statistical used by search engines
 
 ![](../../Assets/Pasted%20image%2020250630154027.png)
-this how the loading and splitting , embedding works
-in RAG step retrieval 
+Vector store implement this for me 
+
+
+## Generation in RAG
+
+![](../../Assets/Pasted%20image%2020250630155215.png)
 ## Numerical representation  for search
 
 ![](../../Assets/Pasted%20image%2020250630152758.png)
