@@ -15,6 +15,10 @@ RAG in challenges ko solve karne ka ek approach hai.  **Ye LLM ko authoritative,
 ## type of retreival 
 ![](../../Assets/Pasted%20image%2020250703223554.png)
 
+
+-- ensemble method for retrieval [hybrid search]
+
+
 ## Semantic search vs RAG
 semantic search does not only search on the basis of keyboard but also understand the reason behind the user ask.
 
