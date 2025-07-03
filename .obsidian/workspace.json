@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "vector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,11 +191,13 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a1c4bb4842261877",
   "lastOpenFiles": [
+    "Assets/Pasted image 20250703223554.png",
     "Assets/Pasted image 20250630155215.png",
     "Assets/Pasted image 20250630154027.png",
     "Assets/Pasted image 20250630153925.png",
@@ -219,7 +221,6 @@
     "1-RoughNotes/React",
     "1-RoughNotes/kubernetes/pods.md",
     "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
-    "Pasted image 20250501163701.png",
     "1-RoughNotes/css/flexbox.md",
     "1-RoughNotes/new_open_source",
     "1-RoughNotes/go-lang/7. Panic and recover.md",

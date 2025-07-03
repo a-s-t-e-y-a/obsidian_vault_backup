@@ -12,6 +12,9 @@ RAG in challenges ko solve karne ka ek approach hai.  **Ye LLM ko authoritative,
 - then the llm generates the output
 - The next question may be—what if the external data becomes stale? To maintain current information for retrieval, asynchronously update the documents and update embedding representation of the documents. You can do this through automated real-time processes or periodic batch processing.
 
+## type of retreival 
+![](../../Assets/Pasted%20image%2020250703223554.png)
+
 ## Semantic search vs RAG
 semantic search does not only search on the basis of keyboard but also understand the reason behind the user ask.
 
