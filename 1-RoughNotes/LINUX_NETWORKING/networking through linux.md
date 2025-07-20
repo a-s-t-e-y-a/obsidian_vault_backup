@@ -54,7 +54,9 @@ this can implement application layer share packets at very low level also like e
 - struct socket
 - struct sock
 - struct sk_buff
+first understand what is a socket
 
+socket is the abstraction implementaiona
 - struct socket is close to user space means that it gives the doorway to the application when talk over the { this is what our application like browser or chat app  interact with to communicate}
  I am going to talk about this one by one and summariaze them all in last
 
