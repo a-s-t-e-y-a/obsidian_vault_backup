@@ -28,4 +28,7 @@ But who  gonna like that linux kernel .. when internet becomes our identity
 
 ### networking in user space 
 
-For user 
+For user space abstraction of network communication is socket
+what does this means 
+
+so all ni
