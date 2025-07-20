@@ -31,4 +31,6 @@ But who  gonna like that linux kernel .. when internet becomes our identity
 For user space abstraction of network communication is socket
 what does this means 
 
-so all ni
+so all nitty and gritty of network implemented at kernel level and kernel provides a abstraction called socket which user can use
+
+let's take an
