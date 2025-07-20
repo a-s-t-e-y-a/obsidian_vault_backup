@@ -11,10 +11,12 @@
             "id": "ba7afc5c815924d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-31 22.12.08.excalidraw"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Drawing 2024-12-31 22.12.08.excalidraw"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Drawing 2024-12-31 22.12.08.excalidraw"
             }
           },
           {
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drawing 2024-12-31 22.12.08.excalidraw"
             }
           },
           {
@@ -177,8 +182,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ba7afc5c815924d4",
+  "active": "646d6dcdd26e88f9",
   "lastOpenFiles": [
+    "1-RoughNotes/Untitled",
+    "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md",
+    "Calender/(Every S,F,R,W,T,M,U) Daily connect with shivam.md",
+    "9-Bugs/2024-12-27 Tradiejam-frontend-bugs.md",
+    "Pasted image 20241227130300.png",
+    "Untitled",
     "1-RoughNotes/ai/RAG.md",
     "Assets/Pasted image 20250703223554.png",
     "Assets/Pasted image 20250630155215.png",
@@ -192,11 +204,9 @@
     "Pasted image 20250630001035.png",
     "1-RoughNotes/ai/rough notes.md",
     "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
-    "Pasted Image 20250619002945_804.png",
     "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md",
     "1-RoughNotes/React/1 .Rendering UI for react.md",
     "1-RoughNotes/ai",
-    "Untitled",
     "1-RoughNotes/React/2 .Component life cycle method.md",
     "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/React",
@@ -215,8 +225,6 @@
     "1-RoughNotes/go-lang/1.golang.md",
     "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
     "1-RoughNotes/go lang learnig from project.md",
-    "1-RoughNotes/Authorization vs Authentication.md",
-    "1-RoughNotes/javascript/Object references and copying.md",
-    "1-RoughNotes/javascript/javascript--loops-2025-01-05-RoughNote.md"
+    "1-RoughNotes/Authorization vs Authentication.md"
   ]
 }
