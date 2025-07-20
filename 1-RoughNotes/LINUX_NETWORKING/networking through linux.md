@@ -43,4 +43,9 @@ An IP socket is associated with an IP address, the transport layer protocol used
 Network communication is accomplished via `read`/`write` or `recv`/`send` calls for TCP sockets and `recvfrom`/`sendto` for UDP sockets.
 ```
 
-however you can leverage this kernel capab
+however you can leverage this kernel capability in user space 
+by using 
+PF_PACKET option when creating a socket 
+this can implement application layer share packets at very low level also like ethernet etc...
+
+
