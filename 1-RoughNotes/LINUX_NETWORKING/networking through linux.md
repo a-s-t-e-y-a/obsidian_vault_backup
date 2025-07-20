@@ -59,6 +59,7 @@ this can implement application layer share packets at very low level also like e
  I am going to talk about this one by one and summariaze them all in last
 
 ### struct socket
+note :  this is the implementation of struct socket - https://github.com/torvalds/linux/blob/master/net/socket.c
 
 - struct socket is close to the user -space
 - we call them BSD socket 
