@@ -93,4 +93,5 @@ These functions became the **de facto standard** for network programming — not
 ### struct sock
 
 This is the brain of the socket connection ( inside the kernel )
-
+it is contains all the backend logic related to socket 
+consider struct socket as the door and struct sock is the engine that powers that door 
