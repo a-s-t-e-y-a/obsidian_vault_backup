@@ -39,4 +39,8 @@ let's take an example for example you dial a call from your phone you just press
 this is from the labs
 
 An IP socket is associated with an IP address, the transport layer protocol used (TCP, UDP etc) and a port. Common function calls that use sockets are: creation (`socket`), initialization (`bind`), connecting (`connect`), waiting for a connection (`listen`, `accept`), closing a socket (`close`).
+
+Network communication is accomplished via `read`/`write` or `recv`/`send` calls for TCP sockets and `recvfrom`/`sendto` for UDP sockets.
 ```
+
+
