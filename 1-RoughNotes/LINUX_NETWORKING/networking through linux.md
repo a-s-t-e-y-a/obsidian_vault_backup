@@ -103,4 +103,15 @@ sometimes we call struct sock as INET socket in linux becuse it's used for inter
 
 This is how kernel represent a network packet
 every info like 
+- who is it form 
+- where it is going
+- what is the protocol
+- what is inside the packet 
 
+### Summary
+
+|Structure|What it Represents|Role|
+|---|---|---|
+|`struct socket`|The app's view of a socket|Interface between app and kernel|
+|`struct sock`|The kernel’s logic engine|Handles all internal details of a socket|
+|`struct sk_buff`|A network packet|Holds data being sent/received|
