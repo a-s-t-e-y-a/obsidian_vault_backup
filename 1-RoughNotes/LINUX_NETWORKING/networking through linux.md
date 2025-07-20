@@ -21,4 +21,5 @@ but in real world now we are using TCP/IP model which has only 4 layers
 for more you can go and search about models .... 
 
 
-what i am particular intrested ab
+what i am particular interested about is how networking implemented in kernel level 
+how can i leverage that 
