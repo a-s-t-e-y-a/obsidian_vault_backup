@@ -17,4 +17,8 @@ but in real world now we are using TCP/IP model which has only 4 layers
 	 - Transport layer 
 	 - Internet layer 
 	 - Network layer 
-	 - 
+
+for more you can go and search about models .... 
+
+
+what i am particular intrested ab
