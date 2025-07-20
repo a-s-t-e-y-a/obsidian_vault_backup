@@ -3,11 +3,11 @@
   "smart-random-note",
   "templater-obsidian",
   "nldates-obsidian",
-  "obsidian-git",
   "customjs",
   "dataview",
   "buttons",
   "obsidian-full-calendar",
   "obsidian42-brat",
-  "consistent-attachments-and-links"
+  "consistent-attachments-and-links",
+  "obsidian-git"
 ]
