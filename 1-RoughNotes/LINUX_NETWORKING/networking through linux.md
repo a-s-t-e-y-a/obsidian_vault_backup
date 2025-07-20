@@ -21,3 +21,6 @@ What I am particularly interested in is how networking is implemented at the ker
 I am going to follow linux labs --- https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html
 
 Linux kernel can be compiled without networking support 
+But who  gonna like that linux kernel .. when internet becomes our identity
+
+- the kernel is only responsible till the transport layer after that all thing happens uin
