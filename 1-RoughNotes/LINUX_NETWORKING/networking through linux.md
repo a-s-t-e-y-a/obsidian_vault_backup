@@ -11,4 +11,10 @@ rather than focuses on the top command used in linux i am going to deep dive int
 let's start ....
 
 ### what is osi model
-osi model are pretty ba
+osi model are pretty basic with 7 layers of networks 
+but in real world now we are using TCP/IP model which has only 4 layers 
+	 - Application layer 
+	 - Transport layer 
+	 - Internet layer 
+	 - Network layer 
+	 - 
