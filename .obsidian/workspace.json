@@ -11,12 +11,24 @@
             "id": "ba7afc5c815924d4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md"
+                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-31 22.12.08.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2024-12-31 22.12.08.excalidraw"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -111,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2024-12-31 22.12.08.excalidraw"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -140,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-12-31 22.12.08.excalidraw"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -182,8 +194,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "646d6dcdd26e88f9",
+  "active": "ba7afc5c815924d4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
+    "1-RoughNotes/LINUX_NETWORKING/Untitled.md",
     "1-RoughNotes/LINUX_NETWORKING",
     "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md",
     "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md",
@@ -224,7 +238,6 @@
     "1-RoughNotes/go-lang/2.golang.md",
     "1-RoughNotes/go-lang/1.golang.md",
     "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
-    "1-RoughNotes/go lang learnig from project.md",
-    "1-RoughNotes/Authorization vs Authentication.md"
+    "1-RoughNotes/go lang learnig from project.md"
   ]
 }
