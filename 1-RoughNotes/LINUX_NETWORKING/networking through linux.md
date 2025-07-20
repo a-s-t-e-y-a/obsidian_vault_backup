@@ -49,4 +49,10 @@ PF_PACKET option when creating a socket
 this can implement application layer share packets at very low level also like ethernet etc...
 
 ## linux networking
+ linux networking has three main structure that form linux networking 
 
+- struct socket
+- struct sock
+- struct sk_buff
+
+- struct
