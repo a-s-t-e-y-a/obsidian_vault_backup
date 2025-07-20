@@ -43,4 +43,4 @@ An IP socket is associated with an IP address, the transport layer protocol used
 Network communication is accomplished via `read`/`write` or `recv`/`send` calls for TCP sockets and `recvfrom`/`sendto` for UDP sockets.
 ```
 
-
+however you can leverage this kernel capab
