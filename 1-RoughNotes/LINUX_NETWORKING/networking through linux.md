@@ -2,7 +2,6 @@ This guide is going to help you understand what networking is, how networking wo
 
 **Disclaimer:** I am learning networking concepts, so I am also a beginner. Treat me like one. You can take this guide as documentation of my journey to learn networking. Rather than focusing on the top commands used in Linux, I am going to deep dive into this topic.
 
-Just don't clear examp
 
 Let's start.
 
@@ -20,3 +19,5 @@ For more information, you can go and search about these models.
 What I am particularly interested in is how networking is implemented at the kernel level and how I can leverage that.
 
 I am going to follow linux labs --- https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html
+
+Linux kernel can be compiled without networking support 
