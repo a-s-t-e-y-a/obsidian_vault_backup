@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb6c4847c0a6fb3",
+        "id": "587e4e780d58c2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c4bb4842261877",
+            "id": "ba7afc5c815924d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/ai/RAG.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "New tab"
             }
           }
         ]
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-RoughNotes/ai/RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RAG"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-RoughNotes/ai/RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RAG"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-RoughNotes/ai/RAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RAG"
+              "title": "Outline"
             }
           },
           {
@@ -194,8 +177,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fef431b4df160e3e",
+  "active": "ba7afc5c815924d4",
   "lastOpenFiles": [
+    "1-RoughNotes/ai/RAG.md",
     "Assets/Pasted image 20250703223554.png",
     "Assets/Pasted image 20250630155215.png",
     "Assets/Pasted image 20250630154027.png",
@@ -207,7 +191,6 @@
     "Assets",
     "Pasted image 20250630001035.png",
     "1-RoughNotes/ai/rough notes.md",
-    "1-RoughNotes/ai/RAG.md",
     "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
     "Pasted Image 20250619002945_804.png",
     "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md",
@@ -215,7 +198,6 @@
     "1-RoughNotes/ai",
     "Untitled",
     "1-RoughNotes/React/2 .Component life cycle method.md",
-    "Pasted image 20250530174137.png",
     "1-RoughNotes/kubernetes/what the fuck is k8s.md",
     "1-RoughNotes/React",
     "1-RoughNotes/kubernetes/pods.md",
