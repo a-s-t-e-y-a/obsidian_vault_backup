@@ -55,4 +55,4 @@ this can implement application layer share packets at very low level also like e
 - struct sock
 - struct sk_buff
 
-- struct
+- struct socket is close to user space means that it gives the doorway to the application when talk over the
