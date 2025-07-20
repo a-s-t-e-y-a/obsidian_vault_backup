@@ -1,25 +1,22 @@
+This guide is going to help you understand what networking is, how networking works, and how you can learn networking.
 
-This guide gonna help you to understand 
-what is networking ? how networking works ? how can you learn networking
+**Disclaimer:** I am learning networking concepts, so I am also a beginner. Treat me like one. You can take this guide as documentation of my journey to learn networking. Rather than focusing on the top commands used in Linux, I am going to deep dive into this topic.
 
-disclaimer : 
-i am learning networking concept so i am also a beginner so treat me like that 
-you can take this guide as documentation of my journey to learn networking 
-rather than focuses on the top command used in linux i am going to deep dive into this 
+Just don't clear examp
 
+Let's start.
 
-let's start ....
+### What is the OSI Model?
 
-### what is osi model
-osi model are pretty basic with 7 layers of networks 
-but in real world now we are using TCP/IP model which has only 4 layers 
-	 - Application layer 
-	 - Transport layer 
-	 - Internet layer 
-	 - Network layer 
+The OSI model is pretty basic with 7 layers of networks, but in the real world, we are now using the TCP/IP model, which has only 4 layers:
 
-for more you can go and search about models .... 
+- Application layer
+- Transport layer
+- Internet layer
+- Network layer
 
+For more information, you can go and search about these models.
 
-what i am particular interested about is how networking implemented in kernel level 
-how can i leverage that 
+What I am particularly interested in is how networking is implemented at the kernel level and how I can leverage that.
+
+I am going to follow linux labs --- https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html
