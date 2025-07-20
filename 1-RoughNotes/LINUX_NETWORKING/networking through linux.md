@@ -33,4 +33,4 @@ what does this means
 
 so all nitty and gritty of network implemented at kernel level and kernel provides a abstraction called socket which user can use
 
-let's take an
+let's take an example for example you dial a call from your phone you just press that call button and call gets connected . but what happened in the backend how does call gets connected this depends on the user level 
