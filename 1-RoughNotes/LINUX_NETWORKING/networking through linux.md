@@ -58,10 +58,34 @@ this can implement application layer share packets at very low level also like e
 - struct socket is close to user space means that it gives the doorway to the application when talk over the { this is what our application like browser or chat app  interact with to communicate}
  I am going to talk about this one by one and summariaze them all in last
 
-### struct socket
+# struct socket
 
 - struct socket is close to the user -space
 - we call them BSD socket 
-now what is this BSD sockets
 
+What is the **BSD socket API**?
 
+### **BSD stands for Berkeley Software Distribution**.
+
+- It was a version of the Unix operating system developed at the **University of California, Berkeley** in the late 1970s and 1980s.
+    
+- BSD introduced many important networking features — **most importantly, the socket API**.
+
+It's a **standard programming interface** (a set of functions) for doing network communication.
+
+Common functions in the BSD socket API:
+
+- `socket()` – Create a socket
+    
+- `bind()` – Bind a socket to an address and port
+    
+- `connect()` – Connect to a remote address
+    
+- `listen()` – Listen for incoming connections
+    
+- `accept()` – Accept a new connection
+    
+- `send()` / `recv()` – Send and receive data
+    
+
+These functions became the **de facto standard** for network programming — not just in BSD, but in Linux, Windows, and other systems
