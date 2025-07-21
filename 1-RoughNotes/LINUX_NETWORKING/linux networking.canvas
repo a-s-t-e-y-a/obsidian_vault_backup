@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"fd2bfabf6424982a","x":-125,"y":-30,"width":705,"height":430,"color":"1","type":"text","text":"Struct Socket\n1. its is general BSD socket \n2. it contains pointer to two important fields\n3. "}
+		{"id":"fd2bfabf6424982a","x":-125,"y":-30,"width":705,"height":430,"color":"1","type":"text","text":"Struct Socket\n1. its is general BSD socket \n2. it contains pointer to two important fields\n3. **ops** and **sk**\n4. now ops is for protocol specific operations\n5. sk is for kernel representation INET socket representai"}
 	],
 	"edges":[]
 }
