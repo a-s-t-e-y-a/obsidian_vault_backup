@@ -7,16 +7,18 @@
 		{"id":"fd2bfabf6424982a","type":"text","text":"Struct Socket\n1. its is general BSD socket \n2. it contains pointer to two important fields\n3. **ops** and **sk**\n4. now ops is for protocol specific operations\n5. sk is for kernel representation INET socket representation\n6. file descriptor is user based that actually makes the connection","x":-200,"y":-160,"width":580,"height":240,"color":"1"},
 		{"id":"925b41edafd727e4","x":420,"y":-80,"width":120,"height":120,"type":"text","text":"sk pointer\npoints to this"},
 		{"id":"1d40fcfbc3c03dbb","type":"text","text":"Every thing combine and becomes a packet","x":260,"y":460,"width":250,"height":60},
-		{"id":"ed607c4e78d14f8f","type":"text","text":"Struct_proto_ops\n\n1. This contains protocol specific functions\n2. struct_socket gives you front door interface and struct sock contains all the general representation but protocol specific functions are in struct_proto_ops\n3. like we use sendmsg from struct socket but which protocol send message has to be used lie in this struct_proto_ops\n4. ops pointer from struct socket points to this struct_proto_ops\n5. its **initialization** happens in __sock_create() function  . every protocol has its own function\n6. when i use sock->ops->bind() its calls this function for specific protocol ","x":-640,"y":380,"width":780,"height":360,"color":"5"}
+		{"id":"7967cb588678b639","x":-260,"y":234,"width":250,"height":60,"type":"text","text":"ops pointer points to this"},
+		{"id":"ed607c4e78d14f8f","type":"text","text":"Struct_proto_ops\n\n1. This contains protocol specific functions\n2. struct_socket gives you front door interface and struct sock contains all the general representation but protocol specific functions are in struct_proto_ops\n3. like we use sendmsg from struct socket but which protocol send message has to be used lie in this struct_proto_ops\n4. ops pointer from struct socket points to this struct_proto_ops\n5. its **initialization** happens in __sock_create() function  . every protocol has its own function\n6. when i use sock->ops->bind() its calls this function for specific protocol ","x":-700,"y":440,"width":780,"height":360,"color":"5"}
 	],
 	"edges":[
 		{"id":"b82db00b875720d4","fromNode":"fd2bfabf6424982a","fromSide":"right","toNode":"5deed938ff6d50e1","toSide":"left"},
-		{"id":"2e94acb2b59368ab","fromNode":"fd2bfabf6424982a","fromSide":"bottom","toNode":"ed607c4e78d14f8f","toSide":"top"},
 		{"id":"cd8d43736b594400","fromNode":"ed607c4e78d14f8f","fromSide":"right","toNode":"1d40fcfbc3c03dbb","toSide":"left"},
 		{"id":"4ae3eca3ec0f5596","fromNode":"1d40fcfbc3c03dbb","fromSide":"right","toNode":"b937bc7b7c82d333","toSide":"top"},
 		{"id":"441db48d462d6071","fromNode":"fd2bfabf6424982a","fromSide":"bottom","toNode":"913cbcdf6e730c4d","toSide":"top"},
 		{"id":"f1adfcfc689a57fe","fromNode":"913cbcdf6e730c4d","fromSide":"bottom","toNode":"b937bc7b7c82d333","toSide":"top"},
 		{"id":"fc55fd358c34c762","fromNode":"5deed938ff6d50e1","fromSide":"bottom","toNode":"05181fefd7e4a9ff","toSide":"top"},
-		{"id":"478e52ff53b5cf1e","fromNode":"05181fefd7e4a9ff","fromSide":"bottom","toNode":"b937bc7b7c82d333","toSide":"top"}
+		{"id":"478e52ff53b5cf1e","fromNode":"05181fefd7e4a9ff","fromSide":"bottom","toNode":"b937bc7b7c82d333","toSide":"top"},
+		{"id":"2c2c50a48c53347d","fromNode":"fd2bfabf6424982a","fromSide":"bottom","toNode":"7967cb588678b639","toSide":"top"},
+		{"id":"b9dbfd2ba1408e07","fromNode":"7967cb588678b639","fromSide":"bottom","toNode":"ed607c4e78d14f8f","toSide":"top"}
 	]
 }
