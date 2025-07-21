@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"fd2bfabf6424982a","x":-125,"y":-30,"width":585,"height":230,"color":"1","type":"text","text":"Struct Socket\n1. its is general BSD socket \n2. it contains pointer to two important fields\n3. **ops** and **sk**\n4. now ops is for protocol specific operations\n5. sk is for kernel representation INET socket representation\n6. file descriptor is user based that actually makes the connection"},
-		{"id":"5deed938ff6d50e1","x":-120,"y":240,"width":780,"height":340,"color":"4","type":"text","text":""}
+		{"id":"5deed938ff6d50e1","x":-120,"y":240,"width":780,"height":340,"color":"4","type":"text","text":"Struct Sock\n\n1. Now we have seen that struct socket provide two pointer sk and ops and sk is one of the pointer that points to this struct sock \n2. "}
 	],
 	"edges":[]
 }
