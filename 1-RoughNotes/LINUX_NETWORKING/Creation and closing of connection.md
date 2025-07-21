@@ -17,4 +17,6 @@ The parameters of these calls are as follows:
 > - `type` is the type of socket; the constants used for this parameter are found in `linux/net.h`, of which the most used are `SOCK_STREAM` for a connection based source-to-destination communication and `SOCK_DGRAM` for connectionless communication;
 > - `protocol` represents the protocol used and is closely related to the `type` parameter; the constants used for this parameter are found in `linux/in.h`, of which the most used are `IPPROTO_TCP` for TCP and `IPPROTO_UDP` for UDP.
 
-remember when you open the labs you'll actually see the code written in 
+remember when you open the labs you'll actually see the code written in kernel level that do all the things for us
+
+for now i m not able to understand what they do but now i got the clue that yeah this is the code that enables us to use the networking in the linux
