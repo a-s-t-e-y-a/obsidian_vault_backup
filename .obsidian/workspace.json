@@ -11,24 +11,17 @@
             "id": "ba7afc5c815924d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
+                "viewState": {
+                  "x": 231.59987703613422,
+                  "y": 1031.9357270668684,
+                  "zoom": -0.19999999999999996
                 }
               },
-              "icon": "lucide-file",
-              "title": "How actually message flow works"
+              "icon": "lucide-layout-dashboard",
+              "title": "linux networking"
             }
           }
         ]
@@ -88,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How actually message flow works"
+              "title": "Backlinks for linux networking"
             }
           },
           {
@@ -123,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How actually message flow works"
+              "title": "Outgoing links from linux networking"
             }
           },
           {
@@ -152,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How actually message flow works"
+              "title": "Outline of linux networking"
             }
           },
           {
@@ -197,8 +191,8 @@
   },
   "active": "ba7afc5c815924d4",
   "lastOpenFiles": [
-    "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
     "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
+    "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
     "1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md",
     "1-RoughNotes/LINUX_NETWORKING/3. Sending and Receiving message.md",
     "1-RoughNotes/LINUX_NETWORKING/2. Creation and closing of connection.md",
