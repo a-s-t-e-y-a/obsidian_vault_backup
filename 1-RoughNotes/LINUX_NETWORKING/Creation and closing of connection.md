@@ -20,3 +20,6 @@ The parameters of these calls are as follows:
 remember when you open the labs you'll actually see the code written in kernel level that do all the things for us
 
 for now i m not able to understand what they do but now i got the clue that yeah this is the code that enables us to use the networking in the linux
+
+
+### for me i have a hinglish
