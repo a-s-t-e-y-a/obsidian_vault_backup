@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -21,7 +21,7 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "linux networking"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for linux networking"
             }
           },
           {
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from linux networking"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/Untitled.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of linux networking"
             }
           },
           {
@@ -188,10 +188,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "646d6dcdd26e88f9",
+  "active": "ba7afc5c815924d4",
   "lastOpenFiles": [
     "1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md",
-    "1-RoughNotes/LINUX_NETWORKING/Untitled.canvas",
+    "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
     "1-RoughNotes/LINUX_NETWORKING/3. Sending and Receiving message.md",
     "1-RoughNotes/LINUX_NETWORKING/2. Creation and closing of connection.md",
     "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
