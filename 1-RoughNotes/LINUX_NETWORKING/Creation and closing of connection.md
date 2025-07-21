@@ -22,4 +22,5 @@ remember when you open the labs you'll actually see the code written in kernel l
 for now i m not able to understand what they do but now i got the clue that yeah this is the code that enables us to use the networking in the linux
 
 
-### for me i have a hinglish
+### for me i have a hinglish version of this also available
+
