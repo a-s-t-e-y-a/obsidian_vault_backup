@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/networking through linux.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Creation and closing of connection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "networking through linux"
+              "title": "Creation and closing of connection"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/networking through linux.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Creation and closing of connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for networking through linux"
+              "title": "Backlinks for Creation and closing of connection"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/networking through linux.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Creation and closing of connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from networking through linux"
+              "title": "Outgoing links from Creation and closing of connection"
             }
           },
           {
@@ -153,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/networking through linux.md",
+                "file": "1-RoughNotes/LINUX_NETWORKING/Creation and closing of connection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of networking through linux"
+              "title": "Outline of Creation and closing of connection"
             }
           },
           {
@@ -198,8 +197,9 @@
   },
   "active": "ba7afc5c815924d4",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
     "1-RoughNotes/LINUX_NETWORKING/networking through linux.md",
+    "1-RoughNotes/LINUX_NETWORKING/Creation and closing of connection.md",
+    "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
     "1-RoughNotes/LINUX_NETWORKING",
     "Excalidraw/Drawing 2024-12-29 22.09.15.excalidraw.md",
     "Excalidraw/Drawing 2024-12-01 21.34.37.excalidraw.md",
@@ -239,7 +239,6 @@
     "1-RoughNotes/go-lang/3.golang.md",
     "1-RoughNotes/go-lang/2.golang.md",
     "1-RoughNotes/go-lang/1.golang.md",
-    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md",
-    "1-RoughNotes/go lang learnig from project.md"
+    "2-Task-for-subtask/bigcapital-frontend-task-2025-03-05.md"
   ]
 }
