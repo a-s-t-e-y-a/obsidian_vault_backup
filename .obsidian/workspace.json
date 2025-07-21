@@ -11,17 +11,24 @@
             "id": "ba7afc5c815924d4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
-                "viewState": {
-                  "x": 271.59648437500005,
-                  "y": 609.8,
-                  "zoom": 0
+                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "linux networking"
+              "icon": "lucide-file",
+              "title": "How actually message flow works"
             }
           }
         ]
@@ -81,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -98,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for linux networking"
+              "title": "Backlinks for How actually message flow works"
             }
           },
           {
@@ -117,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from linux networking"
+              "title": "Outgoing links from How actually message flow works"
             }
           },
           {
@@ -146,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
+                "file": "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linux networking"
+              "title": "Outline of How actually message flow works"
             }
           },
           {
@@ -191,8 +197,9 @@
   },
   "active": "ba7afc5c815924d4",
   "lastOpenFiles": [
-    "1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md",
     "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
+    "1-RoughNotes/LINUX_NETWORKING/How actually message flow works.md",
+    "1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md",
     "1-RoughNotes/LINUX_NETWORKING/3. Sending and Receiving message.md",
     "1-RoughNotes/LINUX_NETWORKING/2. Creation and closing of connection.md",
     "Excalidraw/Drawing 2024-12-31 22.12.08.excalidraw.md",
@@ -232,7 +239,6 @@
     "1-RoughNotes/go-lang/9. Go env notes.md",
     "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md",
     "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md",
-    "1-RoughNotes/go-lang/3.golang.md",
-    "1-RoughNotes/go-lang/2.golang.md"
+    "1-RoughNotes/go-lang/3.golang.md"
   ]
 }
