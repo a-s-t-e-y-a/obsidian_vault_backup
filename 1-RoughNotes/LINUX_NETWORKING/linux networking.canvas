@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"72b7ba42a13bf7f5","x":227,"y":275,"width":400,"height":400,"type":"file","file":"1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md"},
 		{"id":"fd2bfabf6424982a","x":-125,"y":-30,"width":705,"height":430,"color":"1","type":"text","text":"Struct Socket\n1. its is general BSD socket \n2. it contains pointer to two important fields\n\n"}
 	],
 	"edges":[]
