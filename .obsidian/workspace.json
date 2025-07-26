@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "587e4e780d58c2b5",
+        "id": "82fb5515acb3e9f3",
         "type": "tabs",
         "children": [
           {
-            "id": "ba7afc5c815924d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/LINUX_NETWORKING/5. netfilter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5. netfilter"
-            }
-          },
-          {
-            "id": "8b7048376e213f37",
+            "id": "3b9e7966aa50d694",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -43,8 +19,7 @@
               "title": "Drawing 2025-07-26 23.22.43.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +183,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b7048376e213f37",
+  "active": "3b9e7966aa50d694",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-26 23.25.17.excalidraw.md",
     "1-RoughNotes/LINUX_NETWORKING/5. netfilter.md",
     "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md",
     "1-RoughNotes/LINUX_NETWORKING/4. How actually message flow works.md",
@@ -252,7 +228,6 @@
     "1-RoughNotes/kubernetes",
     "1-RoughNotes/go-lang/8. unix debugging utilities.md",
     "1-RoughNotes/go-lang/9. Go env notes.md",
-    "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md",
-    "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md"
+    "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md"
   ]
 }
