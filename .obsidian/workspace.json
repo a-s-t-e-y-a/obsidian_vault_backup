@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "5. netfilter"
             }
+          },
+          {
+            "id": "8b7048376e213f37",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-26 23.22.43.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba7afc5c815924d4",
+  "active": "8b7048376e213f37",
   "lastOpenFiles": [
-    "1-RoughNotes/LINUX_NETWORKING/4. How actually message flow works.md",
     "1-RoughNotes/LINUX_NETWORKING/5. netfilter.md",
+    "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md",
+    "1-RoughNotes/LINUX_NETWORKING/4. How actually message flow works.md",
     "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
     "1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md",
     "1-RoughNotes/LINUX_NETWORKING/3. Sending and Receiving message.md",
@@ -239,7 +253,6 @@
     "1-RoughNotes/go-lang/8. unix debugging utilities.md",
     "1-RoughNotes/go-lang/9. Go env notes.md",
     "1-RoughNotes/go-lang/10.go-for-loop-2025-03-26-RoughNote.md",
-    "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md",
-    "1-RoughNotes/go-lang/3.golang.md"
+    "1-RoughNotes/go-lang/11. go-array-and -slices-2025-03-26-RoughNote.md"
   ]
 }
