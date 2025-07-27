@@ -11,12 +11,24 @@
             "id": "3b9e7966aa50d694",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md"
+                "file": "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-26 23.22.43.excalidraw"
+              "icon": "lucide-file",
+              "title": "krish-naik-ai-agentic-2024-12-30-RoughNote"
             }
           }
         ]
@@ -185,9 +197,9 @@
   },
   "active": "3b9e7966aa50d694",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md",
     "Excalidraw/Drawing 2025-07-26 23.25.17.excalidraw.md",
     "1-RoughNotes/LINUX_NETWORKING/5. netfilter.md",
-    "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md",
     "1-RoughNotes/LINUX_NETWORKING/4. How actually message flow works.md",
     "1-RoughNotes/LINUX_NETWORKING/linux networking.canvas",
     "1-RoughNotes/LINUX_NETWORKING/1 .networking through linux.md",
