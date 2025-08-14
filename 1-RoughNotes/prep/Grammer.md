@@ -4,4 +4,4 @@
   verb + s/es = singular
 - if word "a" comes together with "many" then all things will behave singular
 - ![](../../Assets/Pasted%20image%2020250814152217.png)
-- " 'S " is only applicable
+- " 'S " is only applicable to living thing and of is put for the non living thing
