@@ -64,14 +64,4 @@
 | was      | were   | She **was** here.     | They **were** here.    |
 | had      | had    | He **had** lunch.     | They **had** lunch.    |
 | did      | did    | She **did** the work. | They **did** the work. |
-- |   |   |   |   |   |
-|---|---|---|---|---|
-|**Future Simple**|will + verb|will + verb|She **will go** to school.|They **will go** to school.|
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Future Continuous**|will be + verb-ing|will be + verb-ing|He **will be working**.|They **will be working**.|
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Future Perfect**|will have + past participle|will have + past participle|She **will have finished**.|They **will have finished**.|
+![](../../Assets/Pasted%20image%2020250814153134.png)
