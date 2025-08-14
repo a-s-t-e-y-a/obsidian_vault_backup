@@ -2,5 +2,6 @@
 - whenever word "every" and "each" comes it means singular talk is going to happen
   noun + s/es = plural
   verb + s/es = singular
+- if word "a" comes together with "many" then all things will behave singular
 - 
 
