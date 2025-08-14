@@ -26,3 +26,5 @@
 - Talking in **general**
     - I love cats. (general)
     - **The** cats are cute. (specific ones)
+
+- if we compare btw same categ
