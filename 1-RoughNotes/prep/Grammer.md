@@ -29,3 +29,4 @@
 
 - if we compare btw same categories then we use " any other "
 - otherwise we use only " any "
+- if we talk about two or more person and they are interelated to thing  that belong to all of the
