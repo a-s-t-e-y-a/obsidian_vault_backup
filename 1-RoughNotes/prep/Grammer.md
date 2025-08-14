@@ -3,5 +3,6 @@
   noun + s/es = plural
   verb + s/es = singular
 - if word "a" comes together with "many" then all things will behave singular
+- ![](../../Assets/Pasted%20image%2020250814152040.png)
 - 
 
