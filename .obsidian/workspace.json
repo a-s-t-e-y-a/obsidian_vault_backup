@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -198,11 +197,12 @@
   },
   "active": "3b9e7966aa50d694",
   "lastOpenFiles": [
+    "1-RoughNotes/prep/grammer list.md",
+    "1-RoughNotes/prep/Grammer.md",
     "Assets/Pasted image 20250814153134.png",
     "Assets/Pasted image 20250814152217.png",
     "Assets/Pasted image 20250814152040.png",
     "1-RoughNotes/prep/confusing words.md",
-    "1-RoughNotes/prep/Grammer.md",
     "1-RoughNotes/prep/Idioms.md",
     "1-RoughNotes/prep/Vocab.md",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
@@ -230,7 +230,6 @@
     "Assets/Pasted image 20250630153925.png",
     "Assets/Pasted image 20250630153625.png",
     "Assets/Pasted image 20250630153534.png",
-    "Assets/Pasted image 20250630152758.png",
     "Assets",
     "1-RoughNotes/ai/rough notes.md",
     "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
