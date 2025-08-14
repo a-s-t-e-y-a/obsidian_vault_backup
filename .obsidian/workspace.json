@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/prep/fgf.md",
+                "file": "1-RoughNotes/prep/Grammer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fgf"
+              "title": "Grammer"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "3b9e7966aa50d694",
   "lastOpenFiles": [
+    "1-RoughNotes/prep/Idioms.md",
+    "1-RoughNotes/prep/Vocab.md",
+    "1-RoughNotes/prep/Grammer.md",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
-    "1-RoughNotes/prep/fgf.md",
     "1-RoughNotes/prep",
     "Untitled",
     "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md",
@@ -239,8 +241,6 @@
     "1-RoughNotes/new_open_source/Notes to be searched and how to implement this.md",
     "1-RoughNotes/css/flexbox.md",
     "1-RoughNotes/new_open_source",
-    "1-RoughNotes/go-lang/7. Panic and recover.md",
-    "1-RoughNotes/kubernetes",
-    "1-RoughNotes/go-lang/8. unix debugging utilities.md"
+    "1-RoughNotes/kubernetes"
   ]
 }
