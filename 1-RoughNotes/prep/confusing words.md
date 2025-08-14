@@ -1,3 +1,5 @@
 late - der
 lately - recently
-confidante - saathi
+confidant - saathi
+confident - vishwas
+
