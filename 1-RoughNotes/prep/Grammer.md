@@ -30,6 +30,5 @@
 - if we compare btw same categories then we use " any other "
 - otherwise we use only " any "
 - if we talk about two or more person and they are interelated to thing  that belong to all of them then we use aphostrophe s at the end person name
-  
   ![](../../Assets/Pasted%20image%2020250814160134.png)
 - 
