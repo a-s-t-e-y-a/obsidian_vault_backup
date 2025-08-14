@@ -27,4 +27,5 @@
     - I love cats. (general)
     - **The** cats are cute. (specific ones)
 
-- if we compare btw same categ
+- if we compare btw same categories then we use " any other "
+- otherwise we use only " any "
