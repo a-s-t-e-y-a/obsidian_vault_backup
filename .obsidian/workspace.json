@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-RoughNotes/prep/English.md",
+                "file": "1-RoughNotes/prep/fgf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "fgf"
             }
           }
         ]
@@ -198,7 +198,7 @@
   "active": "3b9e7966aa50d694",
   "lastOpenFiles": [
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
-    "1-RoughNotes/prep/English.md",
+    "1-RoughNotes/prep/fgf.md",
     "1-RoughNotes/prep",
     "Untitled",
     "Excalidraw/Drawing 2025-07-26 23.22.43.excalidraw.md",
