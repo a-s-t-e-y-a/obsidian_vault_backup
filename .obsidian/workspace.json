@@ -191,8 +191,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "3b9e7966aa50d694",
