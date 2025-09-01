@@ -13,3 +13,4 @@
 - hindsight
 what , importance , cia tridant ( cyber security)
 all things are digital , secure the payments , doctor consulting , crime shift to online
+browser activity traced
