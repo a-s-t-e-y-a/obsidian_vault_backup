@@ -11,3 +11,5 @@
 - virustotal creates hash for the file
 - mcpuff channel
 - hindsight
+what , importance , cia tridant ( cyber security)
+all things are di
