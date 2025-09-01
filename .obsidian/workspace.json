@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "meet notes"
             }
+          },
+          {
+            "id": "529d0b84de2cee84",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,7 +208,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "557e6cf54dd88f03",
+  "active": "529d0b84de2cee84",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "1-RoughNotes/cyberforesincs/meet notes.md",
