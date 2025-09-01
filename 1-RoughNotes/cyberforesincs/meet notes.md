@@ -10,3 +10,4 @@
 - https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/himank-choudhary-760664242&ved=2ahUKEwjjnfvjpLKPAxUmT2cHHU5SMdUQFnoECAoQAQ&usg=AOvVaw2pnPBloR1KP10WSkfPgF21
 - virustotal creates hash for the file
 - mcpuff channel
+- hindsight
