@@ -12,4 +12,4 @@
 - mcpuff channel
 - hindsight
 what , importance , cia tridant ( cyber security)
-all things are di
+all things are digital , secure the payments , doctor consulting , crime shift to online
