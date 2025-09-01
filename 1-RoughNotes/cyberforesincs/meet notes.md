@@ -19,3 +19,6 @@ browser activity traced
 ![](../../Assets/Pasted%20image%2020250901233140.png)
 ![](../../Assets/Pasted%20image%2020250901233213.png)
 ![](../../Assets/Pasted%20image%2020250901233322.png)
+coc 
+![](../../Assets/Pasted%20image%2020250901233355.png)
+![](../../Assets/Pasted%20image%2020250901233412.png)
