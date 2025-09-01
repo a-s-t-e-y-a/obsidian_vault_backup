@@ -14,7 +14,7 @@
 what , importance , cia tridant ( cyber security)
 all things are digital , secure the payments , doctor consulting , crime shift to online
 browser activity traced
-cyber forsesnic tools discuss
+cyber forsesnic tools discuss later
 ![](../../Assets/Pasted%20image%2020250901233107.png)
 ![](../../Assets/Pasted%20image%2020250901233122.png)
 ![](../../Assets/Pasted%20image%2020250901233140.png)
