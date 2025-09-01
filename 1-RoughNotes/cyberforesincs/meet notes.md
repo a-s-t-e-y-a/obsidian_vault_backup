@@ -18,3 +18,4 @@ browser activity traced
 ![](../../Assets/Pasted%20image%2020250901233122.png)
 ![](../../Assets/Pasted%20image%2020250901233140.png)
 ![](../../Assets/Pasted%20image%2020250901233213.png)
+![](../../Assets/Pasted%20image%2020250901233322.png)
