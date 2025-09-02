@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "meet notes"
             }
-          },
-          {
-            "id": "83f2dbac52cd38cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-RoughNotes/cyberforesincs/meet notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "meet notes"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -222,7 +196,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83f2dbac52cd38cc",
+  "active": "557e6cf54dd88f03",
   "lastOpenFiles": [
     "Assets/Pasted image 20250901233740.png",
     "Assets/Pasted image 20250901233722.png",
@@ -235,7 +209,6 @@
     "Assets/Pasted image 20250901233355.png",
     "Assets/Pasted image 20250901233322.png",
     "Assets/Pasted image 20250901233213.png",
-    "1-RoughNotes/Authorization vs Authentication.md",
     "conflict-files-obsidian-git.md",
     "1-RoughNotes/cyberforesincs/meet notes.md",
     "1-RoughNotes/cyberforesincs",
@@ -266,6 +239,7 @@
     "1-RoughNotes/ai/rough notes.md",
     "Excalidraw/Drawing 2025-06-18 23.27.43.excalidraw.md",
     "Excalidraw/Drawing 2025-06-18 22.56.35.excalidraw.md",
+    "1-RoughNotes/React/1 .Rendering UI for react.md",
     "1-RoughNotes/ai",
     "1-RoughNotes/React",
     "1-RoughNotes/new_open_source",
