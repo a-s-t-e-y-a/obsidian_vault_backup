@@ -35,4 +35,4 @@ coc
 1. global file for credit cost calculation 
 2. diffrent schema with one to one relation with user for credits
 3. proxy to attach geo with toss_main_backend credit system
-4. 
+4. swpae akshay kumar
