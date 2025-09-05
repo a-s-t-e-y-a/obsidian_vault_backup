@@ -30,3 +30,8 @@ coc
 ![](../../Assets/Pasted%20image%2020250901233641.png)
 ![](../../Assets/Pasted%20image%2020250901233722.png)
 ![](../../Assets/Pasted%20image%2020250901233740.png)
+
+
+1. global file for credit cost calculation 
+2. diffrent schema with one to one relation with user for credits
+3. 
