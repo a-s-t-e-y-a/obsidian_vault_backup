@@ -36,4 +36,8 @@ coc
 2. diffrent schema with one to one relation with user for credits
 3. proxy to attach geo with toss_main_backend credit system
 4. swap akshay kumar
-5. 1
+
+### cost analyzer
+
+1. rabbit ai instance (   ) : - 
+2. 
