@@ -36,6 +36,10 @@ coc
 2. diffrent schema with one to one relation with user for credits
 3. proxy to attach geo with toss_main_backend credit system
 4. swap akshay kumar
+## task for server cost 
+1. cloud cost 
+2. resume scoring cost by llm token
+3. interview per 1 hur a
 
 ### cost analyzer
 
