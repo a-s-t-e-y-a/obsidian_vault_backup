@@ -39,7 +39,7 @@ coc
 ## task for server cost 
 1. cloud cost 
 2. resume scoring cost by llm token
-3. interview per 1 hur a
+3. interview per 1 hour audio trans coding cost
 
 ### cost analyzer
 
