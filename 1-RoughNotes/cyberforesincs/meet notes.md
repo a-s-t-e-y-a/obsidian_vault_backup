@@ -44,4 +44,6 @@ coc
 ### cost analyzer
 
 1. rabbit ai instance (   ) : - 
-2. 
+2. rabbit learning : 67 dollar 
+3. ipu chat bot : 36 dollar 
+4. 
