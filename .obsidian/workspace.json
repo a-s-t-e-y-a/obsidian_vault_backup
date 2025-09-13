@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "meet notes"
             }
+          },
+          {
+            "id": "78983bd56ed5cbf5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-13 20.45.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-13 20.45.37.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d720f2236a5bbda2",
@@ -186,11 +200,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "557e6cf54dd88f03",
+  "active": "78983bd56ed5cbf5",
   "lastOpenFiles": [
+    "1-RoughNotes/cyberforesincs/meet notes.md",
+    "Excalidraw/Drawing 2025-09-13 20.45.37.excalidraw.md",
     "Assets/Pasted image 20250901233740.png",
     "Assets/Pasted image 20250901233722.png",
     "Assets/Pasted image 20250901233641.png",
@@ -201,9 +223,7 @@
     "Assets/Pasted image 20250901233412.png",
     "Assets/Pasted image 20250901233355.png",
     "Assets/Pasted image 20250901233322.png",
-    "Assets/Pasted image 20250901233213.png",
     "conflict-files-obsidian-git.md",
-    "1-RoughNotes/cyberforesincs/meet notes.md",
     "1-RoughNotes/cyberforesincs",
     "1-RoughNotes/ai-agentic-krish-naik/krish-naik-ai-agentic-2024-12-30-RoughNote.md",
     "1-RoughNotes/prep/grammer list.md",
